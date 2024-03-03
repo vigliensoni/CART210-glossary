@@ -18,11 +18,20 @@ Key facets of HCI encompass:
 
 The overarching objective of HCI is to craft systems that are not merely functional but also user-friendly, intuitive, and gratifying for those engaging with them. It adopts a comprehensive approach to refining the interaction dynamics between humans and computers.
 
+[^caroll97human-computer_interaction] Carroll, John M. 1997. “HUMAN-COMPUTER INTERACTION: Psychology as a Science of Design.” Annual Review of Psychology 48 (1): 61–83. https://doi.org/10.1146/annurev.psych.48.1.61.
 
-[^caroll97human-computer_interaction] Carroll, John M. “HUMAN-COMPUTER INTERACTION: Psychology as a Science of Design.” Annual Review of Psychology 48, no. 1 (1997): 61–83. https://doi.org/10.1146/annurev.psych.48.1.61.
+[^helander14human-computer_interaction] Helander, M. G. 2014. Handbook of Human-Computer Interaction. Elsevier.
 
-[^helander14human-computer_interaction] Helander, M. G. Handbook of Human-Computer Interaction. Elsevier, 2014.
+[^mackenzie24human-computer_interaction] MacKenzie, I. Scott. 2024. Human-Computer Interaction: An Empirical Research Perspective. Elsevier.
 
-[^mackenzie24human-computer_interaction] MacKenzie, I. Scott. Human-Computer Interaction: An Empirical Research Perspective. Elsevier, 2024.
+[^myers98human-computer_interaction] Myers, Brad A. 1998. “A Brief History of Human-Computer Interaction Technology.” Interactions 5 (2): 44–54. https://doi.org/10.1145/274430.274436.
 
-[^myers98human-computer_interaction] Myers, Brad A. “A Brief History of Human-Computer Interaction Technology.” Interactions 5, no. 2 (March 1998): 44–54. https://doi.org/10.1145/274430.274436.
+![computer-human_interaction](images/human-computer_interaction_-_catt_.png)
+
+Bibliography for images in collage: 
+
+[^edlow23human-computer_interaction]: Edlow, Brian L., et al. “7 Tesla MRI of the Ex Vivo Human Brain at 100 Micron Resolution.” Scientific Data, vol. 6, no. 1, 30 Oct. 2019, p. 244, www.nature.com/articles/s41597-019-0254-8, https://doi.org/10.1038/s41597-019-0254-8. Accessed 10 Feb. 2024.
+
+[^drawpaintacademy23human-computer_interaction]: “Hand Reference Photos.” 2023. Draw Paint Academy. February 2, 2023. https://drawpaintacademy.com/gallery/hand-reference-photos/.
+
+[^wikipediacontributors19human-computer_interaction]: Wikipedia Contributors. “Human Eye.” Wikipedia, Wikimedia Foundation, 23 Apr. 2019, en.wikipedia.org/wiki/Human_eye. Accessed 10 Feb. 2024.
