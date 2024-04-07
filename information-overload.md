@@ -1,6 +1,4 @@
-# INFORMATIONOVERLO**ADINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADINFO*RMATION*OVERLOAD**INFORMATIONOVERLOADINFORMATIONOVERLOADINFORMAT**IONOVERLOADINFORMATIONO*VERLOADIN*FORMA**TIONOVERLOA**DINFORMATION**OVERLOADINFORMATIONOVERLOADINFORMATIONOVE**RLOADINFORMATIONOVERLOADINFORMATION**OVERLOADINFORMATIONOVERLOADINFORMATIONOV*ERLOADINFORM*ATIONOVERL*OADINF*ORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATION**OVERLOADINFORMATIONOV**ERLOAD*INFORMATIONOVERLOADINFORMATIONOVERL*OADINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADI**NFORMATIONOVERL**OADINFORMA**TIONOVERLOA**DINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADINFORMATIONOVERLOADIN*FORMATIONOVERLOA*DINFORMATIONOVERLOADINFORMATIONOVERLOAD
-
-## Information Overload
+# Information Overload
 
 The human brain is the most complex organ in one of the most complex organisms on earth. It can process information sent through the rest of the body, and can register and comprehend imagery in as little as 13 milliseconds. [^Trafton14blinkofaneye]
 
@@ -46,7 +44,7 @@ If we turn this number into meters, it would be equal to more than half the leng
 
 What the brain has experienced while reading the numbers mentioned above may have been akin to information overload. The senses went blurry and the brain got fogged. Maybe the attention may have been diverted to somewhere else, or the brain may have shut off entirely as to save itself from physical pain by nothing but reading text. Information overload takes many forms, and the takeaway from any of what was mentioned above was this:
 
-## **Spend more time dealing with the problems in your head and mentally fortifying before information overload assault you all at once like a hurricane.**
+**Spend more time dealing with the problems in your head and mentally fortifying before information overload assault you all at once like a hurricane.**
 
 <br><br>
 
