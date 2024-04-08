@@ -1,17 +1,16 @@
 ## Embodiment 
 ![Embodiment](images/embodiment-rezaee.png)
-As an overall term, embodiment can carry several meanings. Embody in dictionary... Latin root of embody... Its most common use deals with physical representations of subjects both real and abstract. For example, "She is the embodiment of anger!", this concrete defintion is simple enough to understand. However depending on context the definition of the term shifts. 
+As an overall term, embodiment can carry several meanings. Embodiment is described as "someone or something that represents a quality or an idea exactly" in the cambridge dictionary[^cambridge01wiki].  Its most common use deals with physical representations of subjects both real and abstract. For example, "She is the embodiment of anger!", this concrete defintion is simple enough to understand. However depending on context the definition of the term shifts. 
 
 In computation and media, embodiment is a discourse that can be deeply philosophical and has a rich history. Within the body's interactions itself, there are many forms of abstraction to be dealt with. Many people have heard of the comparison of brains to computer. The early 4EA (Embodied, Embedded, Extended, Enacted, Affective) cognitive science movement questioned the notion of computation related to an organism. These thinkers arrived to the conclusion that... Today, there remains three schools of thought to consider: body conservationism, body functionalism and body enactivism. The latter of which states that cognition arises from the dynamic interaction between an organism, its body, and its environment [^kiverstein05wiki].
 
-The social aspect of media deepens this discourse, our presence online... Our online embodiments, uch as avatars are an emphatical form of embodiment. and personas [^kleyjer01wiki].  
+The social aspect of media deepens this discourse, our presence online, our usage annd adaption to technology (its use of us), and our online embodiments, such as avatars [avatars](../main/glossary.md#Avatar)are an emphatical form of embodiment and interaction. Embodied interactions refer to the way our bodies interact with the physical world, impacting our thinking processes. This is also known as embodied cognition. Embodied interaction and embodied user interfaces aim to create seamless interactions between users and technology, moving computing tasks from traditional desktop setups to physical spaces.The success of these in motivating students proves embodiment is an integral part of immersion [^chen02wiki]. In video games, avatars are central to narriatve, expeirence and immersion. 
 
-Other things to consider are human interaction with the computer [^chen02wiki], 
+Immserion itself has a longstanding history in new media art, th work of artists like Char Davies, Jon McCormack, and Catherine Richards set the precedent of such. The importance of hearing and the auditory in shaping "new media" through immersion has been a necessity throughout all forms of modern art and entertainment [^haddow04wiki]. 
 
-immersion [^dyson03wiki], 
+In a more physical sense, cyborgs represent the latest form of new media human-machine interaction that centers embodiment in scholarship. The subjectivity of human beings comes into question as we are able to undergo biomedical interventions such as organ transplants, xenotransplants, implantable cardiac devices, and 3-D bioprinting. These interventions raise philosophical and sociological questions about the identity of resulting bodies, blurring the boundaries between human and machine. [^haddow04wiki] 
 
-cyborgs [^haddow04wiki] and more.
-
+[^cambridge01wiki]:Cambridge. n.d. “EMBODIMENT | English Meaning - Cambridge Dictionary.” Cambridge Dictionary. Accessed April 7, 2024. https://dictionary.cambridge.org/dictionary/english/embodiment.
 [^chen02wiki]:Chen, Jessie YC, and Gino Fragomeni. 2018. Virtual, Augmented and Mixed Reality: Interaction, Navigation, Visualization, Embodiment, and Simulation: 10th International Conference, VAMR 2018, Held as Part of HCI International 2018, Las Vegas, NV, USA, July 15-20, 2018, Proceedings, Part I. Vol. 10909. Springer.
 [^dyson03wiki]:Dyson, Frances. 2009. Sounding New Media: Immersion and Embodiment in the Arts and Culture. Univ of California press.
 [^haddow04wiki]:Haddow, Gill. 2021. “Embodiment and Everyday Cyborgs: Technologies That Alter Subjectivity.”

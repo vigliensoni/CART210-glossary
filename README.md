@@ -72,7 +72,7 @@ And then, `Create  a pull request` to the main branch of this repository:
 <img src="./images/06-create-pull-request.png" width="400">
 
 
-## Rendering your image in the glossary (Optional for now): 
+## Rendering your image in the glossary
 
 So far, you have just uploaded your image to the repository. To be displayed, the image has to be linked from your keyword file.
 
@@ -90,3 +90,28 @@ That link will display this image:
 Background image taken from [^reschke07wallpaper]
 
 [^reschke07wallpaper]: Reschke, Michael. 2007. “800x600 Wallpaper Blue Sky.png.” Wikimedia Commons. December 27. https://commons.wikimedia.org/wiki/File:800x600_Wallpaper_Blue_Sky.png.
+
+
+## Creating connections to other entries in the repository
+
+To create links to other entries you have to create a hyperlink using the Markdown format. Use relative linking for this. 
+
+For example, if you want to create links for the entries `Github`, `Wiki`, and `Affordance`, you add the following Markdown syntax:
+
+```
+[GitHub](../main/glossary.md#GitHub), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
+```
+
+That code will be rendered as:
+
+[GitHub](../main/glossary.md#GitHub), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
+
+
+## License
+
+ CART210-2024 New Media Glossary by CART210-2024 Cohort is marked with CC0 1.0 Universal 
+
+
+ ![CC BY 4.0][cc-publicdomain]
+
+[cc-publicdomain]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg

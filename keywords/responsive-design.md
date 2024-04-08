@@ -1,0 +1,9 @@
+## Responsive Design
+
+Responsive Design (RD) also known as Responsive Web Design (RWD) is an approach to web design that uses dynamic techniques to improve the readability and usability of a website on multiple devices. The main techniques used are media queries and relative units. [^IDF01RD] Media queries make use of breakpoints that depend on screen size to determine the behavior of the webpage. An example of the use of this could be a header with buttons directing the user to different pages on the desktop version of a website, whereas these buttons may be hidden within a menu on a mobile screen to preserve space. 
+
+Some pros of responsive design include but aren’t limited to: the ability to reach a larger audience, the improvement of search engine optimization (SEO), as well as ensuring consistency within design across all devices. [^IDF01RD] In order to responsibly make use of responsive design, it is important to consider usability and accessibility.  The design needs to consider all possible interactions from the user in order for the site to work as expected. [^SJ02RD] Responsive design is important for the user experience on a website. According to a study taken during the pandemic, university students much preferred university websites designed with responsive design in mind, and this overall increased usability and effectiveness. [^AP03RD]
+
+[^IDF01RD]: Interaction Design Foundation - IxDF. 2016. “What Is Responsive Design (RD)?” The Interaction Design Foundation. June 3, 2016. https://www.interaction-design.org/literature/topics/responsive-design.
+[^SJ02RD]: Jehl, Scott. 2015. Responsible Responsive Design. https://learning.oreilly.com/library/view/responsible-responsive-design/9780134077987/.
+[^AP03RD]: Parlakkiliç, Alaattin. 2022. “Evaluating the Effects of Responsive Design on the Usability of Academic Websites in the Pandemic.” Education and Information Technologies 27 (1): 1307–22. https://doi.org/10.1007/s10639-021-10650-9.
