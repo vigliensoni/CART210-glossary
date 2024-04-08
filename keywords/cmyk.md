@@ -8,7 +8,7 @@ For medical use, it is used as an analysis tool as you can adapt the CMYK models
 
 For printing, as it’s most common usage. It is used side by side with Pantone as they are the two printing styles that offer the most accurate version of the original image/as the creator intends.[^plumgrove07cmyk] As screens normally use RGB, most software defaults with RGB which makes it so that printers normally turn the image into CMYK for easier printing.
 
-![cmyk](images/cmyk-perez.png)
+![cmyk](../images/cmyk-perez.png)
 
 [^pham07cmyk]: Pham, Nhu-An, Andrew Morrison, Joerg Schwock, Sarit Aviel-Ronen, Vladimir Iakovlev, Ming-Sound Tsao, James Ho, and David W Hedley. “Quantitative Image Analysis of Immunohistochemical Stains Using a CMYK Color Model.” Diagnostic Pathology, February 27, 2007. https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-2-8. 
 
