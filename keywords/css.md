@@ -4,22 +4,26 @@ CSS, or Cascading Style Sheet, is a language used to style HTML or XML documents
 
 There are 3 ways to add CSS to a webpage [^w3school03css]:
 1. **External**: CSS is written in an external file and then linked to its respective HTML file with a \<link> tag within the \<head>. Ex:  
-\<head>  
-\<link rel="stylesheet" href="thecssfile.css">  
-\</head>
+```
+<head>  
+<link rel="stylesheet" href="thecssfile.css">  
+</head>
+```
 2. **Internal**: CSS is written just as if it was in a separate file, but directly in the HTML file within a \<style> tag. Ex:  
-\<style>  
+```
+<style>  
 body {  
   color: black;  
   padding: 0px;  
 }  
-\</style>
+</style>
+```
 3. **Inline**: CSS properties are written inline with the tag they are directly modifying. This way is usually reserved for properties that need to be prioritized in loading. It is not recommended otherwise as it can reduce code readability. Ex:  
-\<body>  
-\<p style="color:black; padding:5px;">This is a paragraph.\</p>  
-\</body>  
-
-
+```
+<body>  
+<p style="color:black; padding:5px;">This is a paragraph.\</p>  
+</body>
+```
 
 ### Examples
 
