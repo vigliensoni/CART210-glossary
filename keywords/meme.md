@@ -1,4 +1,4 @@
-##Meme
+## Meme
 
 Wikipedia defines a meme (/miːm/ MEEM) as an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. [^wikipedia24meme]
 
@@ -6,7 +6,7 @@ The term meme was introduced by the biologist Richard Dawkins in his book The Se
 
 The phrase “Internet meme” is commonly applied to describe the propagation of content items such as jokes, rumors, videos, or websites from one person to others via the Internet. According to this popular notion, an Internet meme may spread in its original form, but it often also spawns user-created derivatives. [^Shifman13meme]
 
-
+![meme](images/meme-jaafar.jpg)
 
 [^wikipedia24meme]: “Meme.” 2024. Wikipedia. Wikimedia Foundation. January 18, 2024. https://en.wikipedia.org/wiki/Meme. 
 

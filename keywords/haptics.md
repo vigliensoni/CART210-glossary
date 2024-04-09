@@ -5,3 +5,5 @@ The word “haptics” means ‘concerned with the sense of touch’ [^haptics1]
 [^haptics1]: Hannaford, Blake, and Allison M. Okamura. 2016. “Haptics.” In Springer Handbook of Robotics, edited by Bruno Siciliano and Oussama Khatib, 1063–84. Springer Handbooks. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-32552-1_42.
 [^haptics2]: Srinivasan, Mandayam A. n.d. "What is Haptics?" Accessed January 29, 2024. https://www.merriam-webster.com/dictionary/haptics 
 [^haptics3]: “Definition of HAPTICS.” n.d. Accessed January 29, 2024. https://www.merriam-webster.com/dictionary/haptics.
+
+![Haptics](images/haptics-bocarro.png)

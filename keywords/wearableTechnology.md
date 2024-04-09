@@ -1,0 +1,14 @@
+## Wearable Technology
+
+Wearable technology - also referred to as 'wearables' - encapsulates all wireless devices incorporated in consumers' everyday accessories and clothing. Although originally referring to items that can be worn (and sequentially, removed), new technological advancements have redefined the term to include more invasive forms of wearable technology, such as implanted microchips and smart tattoos[^ometov21wearableTech]. 
+
+The market for wearable technology is rising exponentially as it allows the seamless incorporation of computers and electronics such as handheld mobile devices into people's lives. Common examples of such technology are tracking bracelets and smartwatches, which utilise sensors to track users' biometrics[^ferreira21wearableTech]. On top of lending improvements to people's everyday lives, they are also useful in numerous other domains, such as health care, fitness, education, finance, and gaming[^wright14wearableTech].
+
+Wearables have developed a 'smartphone-like experience'[^ometov21wearableTech], allowing users to handle 'calls, emails, texts, and many other alerts without even getting the bulky devices out'[^ometov21wearableTech]. As they continue to evolve, industry analyst Walt Maclay argues that they will further absorb our personal lives, 'taking existing wearables such as eyeglasses, watches, hear-ing aids, and jewelry, and enhancing them with sensors'[^wright14wearableTech]. This falls in junction with new media theory, namely the [postdigital](../main/glossary.md#postdigital); The virtualization and digitization of our reality - of our body - through wearable technology. Wearables are a prime instance of technology becoming further abstracted, blurring the lines between what is and isn't machine by incorporating it on (and in) our bodies. 
+
+
+[^ferreira21wearableTech]: Ferreira, João J., Cristina I. Fernandes, Hussain G. Rammal, and Pedro M. Veiga. “Wearable Technology and Consumer Interaction: A Systematic Review and Research Agenda.” Computers in Human Behavior 118 (May 2021): 106710. https://doi.org/10.1016/j.chb.2021.106710. 
+
+[^ometov21wearableTech]: Ometov, Aleksandr, Viktoriia Shubina, Lucie Klus, Justyna Skibińska, Salwa Saafi, Pavel Pascacio, Laura Flueratoru, et al. “A Survey on Wearable Technology: History, State-of-the-Art and Current Challenges.” Computer Networks 193 (July 2021): 108074. https://doi.org/10.1016/j.comnet.2021.108074. 
+
+[^wright14wearableTech]: Wright, Robin, and Latrina Keith. “Wearable Technology: If the Tech Fits, Wear It.” Journal of Electronic Resources in Medical Libraries 11, no. 4 (October 2, 2014): 204–16. https://doi.org/10.1080/15424065.2014.969051. 

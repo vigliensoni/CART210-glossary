@@ -1,5 +1,5 @@
 name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} is catenating .md files with GitHub Actions 🚀
 on: [push]
 jobs:
   Explore-GitHub-Actions:
@@ -28,5 +28,5 @@ jobs:
           git config --local user.email "gabriel@vigliensoni.com"
           git config --local user.name "Gabriel Vigliensoni"
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Concatenated .md files."
+          git diff --quiet && git diff --staged --quiet || git commit -m "Run: Concatenate .md files."
           git push

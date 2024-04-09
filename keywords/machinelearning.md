@@ -1,0 +1,12 @@
+## Machine Learning 
+Machine learning refers to the process wherein systems autonomously learn from data and experiences to improve their performance without explicit programming [^panesar02]. The term was coined by Arthur Samuel in 1959, who trained a computer to play checkers better than the programmer (himself) in a project for IBM[^samuel03wiki].
+
+Computers have improved vastly, with faster components, larger memory space, and sophistcated programs. Alongside this, Machine learning has become an incredible complex field. Data Mining and Machine Learning (DMML) is done through a series of complex mechanisms heavily based in mathematics. Probability and variation predicition provide the basis for dataset collection and processing. Datasets can be large, meaning infinte in dimension or small, a finite dataset. The latter is used in nonparamatic models, which is used to "smoothen" DMML[^clarke04wiki].  
+
+
+This technology is revolutionizing various fields, including healthcare, where it enables faster and more accurate medical diagnostics. Across fields like healthcare and security machine learning raises a number of ethical concerns, including access to data by collectors and processors. The importance of informed consent, data protection, and transparency is extremely detrimental to the moral usage and training of Machine Learning programs [^Panesar]. Most recently, Machine learning has been used to detect a variety of diseases including Parkison's through its pattern recognition cognitive abilities. During COVID 19, transfer learning was suggested as a viable solution to combat data shortage [^Gunjan].
+
+[^clarke04wiki]:Clarke, Bertrand, Ernest Fokoue, and Hao Helen Zhang. 2009. Principles and Theory for Data Mining and Machine Learning. Springer Series in Statistics. New York, NY: Springer. https://doi.org/10.1007/978-0-387-98135-2.
+[^gunjan01wiki]:Gunjan, Vinit Kumar, and Jacek M. Zurada, eds. 2022. Modern Approaches in Machine Learning & Cognitive Science: A Walkthrough | SpringerLink. Springer. https://link-springer-com.lib-ezproxy.concordia.ca/book/10.1007/978-3-030-96634-8.
+[^panesar02wiki]:Panesar, Arjun. 2019. Machine Learning and AI for Healthcare: Big Data for Improved Health Outcomes. Berkeley, CA: Apress. https://doi.org/10.1007/978-1-4842-3799-1.
+[^samuel03wiki]:Samuel, Arthur. 1959. Some Studies in Machine Learning Using the Game of Checkers. IBM Journal of Research and Development. 3 (3): 210–229.

@@ -6,6 +6,7 @@ It's important to realize with Mobile Computing that it isn't only linked to por
 
 The easiest way to understand this term is to take it literally. The first part being mobile which means something that can be in motion and not constrained by location or time. The second part being computing meaning a form of technology or something that processes and inputs and outputs something.[^Lutkevich(n.d)mobilecomputing]
 
+![Mobile Computing](images/mobile-computing-narita.png)
 
 
 
