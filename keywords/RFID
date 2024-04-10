@@ -1,0 +1,16 @@
+## Radio Frequency Identification
+
+RFID is a method for wirelessly identifying objects, animals, or humans using electromagnetic fields.[^amslerRFID] 
+It consists of three major components: an RFID tag (or transponder) encoded with digital information,[^weinstRFID] 
+a reader (or interrogator) that sends and receives radio waves, and an antenna for signal transmission.[^amslerRFID] 
+The reader activates the tag, which then returns data to the reader, turning radio waves into useful 
+information.[^juelsRFID] This method enables the tracking and administration of goods without direct touch or 
+line-of-sight.[^juelsRFID] https://www.youtube.com/watch?v=fijdpALiaqE
+
+
+[^amslerRFID]:Amsler, S., and S. Shea. 2021. "What is RFID and how does it work?" IoT Agenda, March 31. https://www.techtarget.com/iotagenda/definition/RFID-radio-frequency-identification.
+
+[^weinstRFID]:Weinstein, R. 2005. "RFID: a technical overview and its application to the enterprise." IT Professional 7, no. 3 (May-June): 27-33. doi:10.1109/MITP.2005.69.
+
+[^juelsRFID]:Juels, A. 2006. "RFID security and privacy: a research survey." IEEE Journal on Selected Areas in Communications 24, no. 2 (February): 381-394. doi:10.1109/JSAC.2005.861395.
+
