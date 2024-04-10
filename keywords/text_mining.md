@@ -1,4 +1,4 @@
-## text mining
+## text_mining
 
 Text mining, often called text data mining or text analytics, is the process of extracting 
 useful information, patterns, and insights from text data[^Tanmining]. 
