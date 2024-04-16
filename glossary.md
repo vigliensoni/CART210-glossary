@@ -20,7 +20,7 @@ Affordances can vary not only between species but also between the individuals o
 
 Gibson also assumed that affordance perception does not need information processing or internal representations. Rather, affordance perception is direct, corresponding to a learning process based on the extraction of invariants. An animal perceives walk-ability if it sees a flat, extended, rigid, horizontal surface, because this combination of invariants affords support.
 
-Physical versus learned affordance
+**Physical versus learned affordance**
 
 Norman was inspired by the dichotomy between the ventral system and the dorsal system and drew a close parallel between the functions of the dorsal system and affordances. Specifically, he stressed that some statements made by Gibson were somewhat equivocal. For example, Gibson wrote that the ‘values’ and ‘meanings’ of things in the environment can be directly perceived” or “postboxes afford letter mailing”. Norman proposed that only “physical affordances” are perceived by the dorsal system. So, in the aforementioned example of the postboxes, it would be better to say that slot in the mailbox affords inserting an object of appropriate size and shape.
 
@@ -30,7 +30,23 @@ Importantly, this dichotomy also implies that the perception of physical afforda
 By contrast, the dorsal system is responsible for the transformation of “visual information into an egocentric framework allowing the actor to grasp or otherwise bodily manipulate the object” 
 Norman and Young (2006) have suggested that the perception of affordances – and more specifically of physical affordances for Norman – might be supported by the dorsal system. The same theoretical rapprochement may be envisaged between the dorsal system and the affordance route to action. Nevertheless, Yoon and Humphreys (2007) argued that such a rapprochement remains to be demonstrated, notably because of studies indicating that action decision tasks can activate the left inferior temporal lobe (i.e., the ventral system).[^neuro&behavior01affordance]
 
-**Perceived affordance
+## Affordance with technology 
+
+The concept of affordance has different interpretations in the field of Human-Computer Interaction (HCI). However, its treatment has been merely as a one-to-one relationship between a user and a technology. We believe that a broader view of affordances is needed which encompasses social and cultural aspects of our everyday life.
+An interaction-centered view of affordance suggests that affordance is an interpretative relationship between users and the technology that emerges during the users’ interaction with the technology in the lived environments.
+There are two types of affordances.
+
+**1-	Affordance in Information**
+Refers to users’ understanding of a technology based on their semantic (Semantic interpretation is concerned with the meaning of words, phrases, sentences, or even entire texts. It focuses on understanding the meaning conveyed by language) and syntactic (Syntactic interpretation deals with the structure of sentences or phrases. It focuses on how words are arranged in a sentence and the rules governing their arrangement) interpretation. 
+
+**2-	Affordance in Articulation**
+Refers to users’ interpretations about the use of the technology.
+
+The cultural notions on affordance are necessary since the technology, such as mobile and pervasive systems, is becoming part of our every-day lives. The way in which these technologies affect people has changed over time. The forms of these systems and their use are becoming more and more complex and it is likely that they may be perceived and acted upon in different ways by different groups of people. More importantly, the goals of interactive system design are shifting from the mere functionality, usability, productivity and effectiveness to enjoyment, pleasure, fun, and curiosity to other experiential aspects.
+What these systems offer and how users signify and use the systems is also changing. As the technology becomes a part of our work, home and leisure environments, the limited and redusive notions of affordances need to be reconsidered. The social notions on affordance are now necessary since users and other relevant agents collectively play an important role in defining meanings of technological systems. During the technology use, users continuously interpret and reconstruct the meanings related to the technology, which makes it difficult to understand the phenomenon behind affordances.[^technology02affordance]
+
+
+## Perceived affordance
 
 The designer cares more about what actions the user perceives to be possible than what is true. Moreover, affordances, both real and perceived, play very different roles in physical products than they do in the world of screen-based products. In the latter case, affordances play a relatively minor role: cultural conventions are much more important. More on that in a moment. In product design, where one deals with real, physical objects, there can be both real and perceived affordances, and the two sets need not be the same. In graphical, screen-based interfaces, the designer primarily can control only perceived affordances. The computer system already comes with built-in physical affordances. The computer, with its keyboard, display screen, pointing device, and selection buttons (e.g., mouse buttons) affords pointing, touching, looking, and clicking on every pixel of the screen. Most of this affordance is of little interest for the purpose of the application under design. Although all screens within reaching distance afford touching, only some can detect the touch and respond to it. Thus, if the display does not have a touch-sensitive screen, the screen still affords touching, but it has no effect on the computer system. 
 
@@ -51,6 +67,8 @@ Don’t confuse affordances with conventions. Affordances reflect the possible r
 [^neuro&behavior01affordance]:Osiuraka, François, Yves Rossettic, and Arnaud Badet. June 1st 2017 _"What is an affordance? 40 years later."_ Neuroscience and Biobehavioral Reviews, volume 77 :pages 403-417. Accessed january 16th 2024.
 https://www.sciencedirect.com/science/article/pii/S0149763416305061 
 
+[^technology02affordance]:Vyas, Dhaval, Cristina M. Chisalita, and Gerrit C. van der Veer. 2006. _‘Affordance in Interaction’_. In Proceedings of the 13th Eurpoean Conference on Cognitive Ergonomics: Trust and Control in Complex Socio-Technical Systems, 92–99. ECCE ’06. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/1274892.1274907.
+
 [^perceivedaffordance03affordance]:Norman, Donald A. 1999. *‘Affordance, Conventions, and Design’*. Interactions 6 (3): 38–43. https://doi.org/10.1145/301153.301168.
 
 
@@ -62,18 +80,23 @@ Agency is felt by degrees: one can feel more or less in control. This variation 
 
 Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
 
+Feminist theory has done a lot of the heavy lifting to develop "agency" as a concept, discussing who in society has agency - the ability to exert power - and who does not, and is therefore not fully human[^Davies91agency] (women, children, the insane, the machine).
+
 ![agency](images/agency-hoekstra-01.png)
 Image made of a composition of [^Drexler16agency] [^Al24agency] [^tumblr24agency]
 
+[^Davies91agency]: Davies, Bronwyn. 1991. “THE CONCEPT OF AGENCY: A Feminist Poststructuralist Analysis.” *Social Analysis: The International Journal of Social and Cultural Practice*, no. 30: 42–53.
+
 [^MerriamWeb24agency]: “Definition of AGENCY.” 2024. January 28, 2024. https://www.merriam-webster.com/dictionary/agency.
 
-[^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” <i>Cognition</i> 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
+[^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” *Cognition* 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
 
 [^Drexler16agency]: Drexler, Doug. “LCARS Interface - Star Trek Deep Space Nine - TV".  2016. ArtStation. April 8, 2016. https://www.artstation.com/artwork/EbP8n.
 
 [^Al24agency]: Alrubaie, Dun. “Hand Reaching out to an Orange Sky · Free Stock Photo.” Accessed February 11, 2024. https://www.pexels.com/photo/hand-reaching-out-to-an-orange-sky-9740932/.
 
 [^tumblr24agency]: thevaultofretroscifi. “Thevaultofretroscifi.” Tumblr. Tumblr (blog). Accessed February 11, 2024. https://thevaultofretroscifi.tumblr.com/post/138664053372.
+
 
 
 
@@ -113,6 +136,18 @@ Some museums have incorporated new technologies in the recent decade by [digital
 [^graphql24basics]: 2024. "GraphQL is better than REST." How to GraphQL. Accessed February 26, 2024. https://www.howtographql.com/basics/1-graphql-is-the-better-rest/. 
 [^meta15graphql]: Byron, Lee. 2015. "GraphQL: A data query language." Engineering at Meta. Accessed February 26, 2024. https://engineering.fb.com/2015/09/14/core-infra/graphql-a-data-query-language/
 [siegel18APIs]: Siegel, Camille. 2018. "APIs and the art world: Working together for digital collaboration." Axway. https://blog.axway.com/product-insights/amplify-platform/application-integration/apis-art-world.
+## Artificial life
+
+Artificial life is a field of research ranging from computer science to biology. Its goal is to simulate various forms of life, in mathematical, computer and/or robotic form. [^Langton89systems] Artificial life thus allows the more in-depth study of the principles of life, its creation and new applications. [^Bedau&Packard94evolution]
+
+[^Langton89systems]: Langton, C. G. (1989). Artificial life. In Artificial life (pp. 1-47). Springer, Boston, MA2
+https://faculty.washington.edu/lynnhank/Langton.pdf 
+
+[^Bedau&Packard94evolution]: Bedau, M. A., & Packard, N. H. (1994). Measurement of evolutionary activity, teleology, and life. Artificial life, 1(1-2), 11-221
+https://people.reed.edu/~mab/publications/papers/alife2.pdf
+
+Farnell R. (2000). Attempting Immortality : AI, A-Life, and the Post-humain in Greg Egan’s Permutation City
+
 ## Asset
 
 The definition of asset in a general context is rooted in the business and economics. In a paper on the definition of a brand asset, the term is defined as a symbol that helps identify goods or services that differentiates it from its competitors.[^tollington98asset]
@@ -160,6 +195,18 @@ In both of these examples, real-world phenomena were tracked and enumerated. The
 [^Ricecite]: Rice, Mae. 2023.“25 Data Science Applications and Examples.” Built In, February 9, 2023. https://builtin.com/data-science/data-science-applications-examples. 
 
 [^nosebleed22]: Freepik. 2022. “Nosebleed Vectors, Photos and PSD Files: Free Download.” Accessed February 11, 2024. https://www.freepik.com/search?format=search&last_filter=query&last_value=nosebleed&query=nosebleed&type=photo
+
+## Biometrics
+
+Biometrics refers to the measurement and statistical analysis of people's unique physical and behavioral characteristics[^Gillis2021biometric].Biometric authentication is used to verify and identify the identity of an individual[^Das2015biometric]. This way of identification is often used in settings like the airport security, health care and law enforcement[^Gillis2021biometric]. In the context of new media, biometrics can be user in fields such as [UX](../main/glossary.md#ux) to provide a more seamless user experience. For instance, biometric authentication is used to make it easier for user to open their phone or easier to save and store passwords and can even be found in smartwatches[^Schwartz2017].There are two types of biometric technologies, which include physical and behavioral. The physical biometric technologies examining the unique features of our biological self, while the behavioral is related to our mannerisms[^Das2016biometric]. Examples of biometric technologies include fingerprint recognition, vein pattern recognition, hand geometry recognition, iris recognition, retinal recognition, facial recognition, keystroke recognition and signature recognition[^Das2015biometric].
+Advantages of biometrics include being more difficult to fake or steal, easy and convenient to use, stays constant trough out one’s life and nontransferable[^Gillis2021biometric]. Despite that, biometrics system can be quite costly to keep running. If the system fails to properly register someone’s biometry data, this can lead to the system being unable to identifier the user (web). Other instances where the system wouldn’t be able to identify the user is if the user get injured[^Gillis2021biometric]. For example, if the user burns their hand there is a higher change the system will not be able to recognize their fingerprint. 
+
+[^Schwartz2017]:Schwartz, Ezra. 2017. “Exploring Experience Design : Fusing Business, Tech, and Design to Shape Customer Engagement”. Birmingham, UK: Packt Publishing. https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1585789.
+[^Das2015biometric]:Das, Ravindra. 2015. "Biometric Technology : Authentication, Biocryptography, and Cloud-Based Architecture". Boca Raton: CRC Press. https://doi.org/10.1201/b17640.
+[^Das2016biometric]:Das, Ravindra. 2016. "Adopting Biometric Technology : Challenges and Solutions". Boca Raton: CRC Press. https://doi.org/10.1201/b19512. 
+[^Gillis2021biometric]:Gillis, Alexander S., Peter Loshin, and Michael Cobb. 2021. “What Is Biometrics?” Security. https://www.techtarget.com/searchsecurity/definition/biometrics. 
+
+ 
 
 ## Blockchain
 
@@ -308,6 +355,12 @@ The first copyright law passed in America was in 1790 in the United States, whic
 
 Copyright can expire after a certain amount of years. The time it takes for it to expire may vary on the country. It would then fall into the public domain, where it becomes available to be used, distributed or reworked freely.[^dulongmartin12copyright]
 
+### See also
+
+[Copyleft](../keywords/copyleft.md)
+
+[Creative Commons](../keywords/creativecommons.md)
+
 ![copyright-covaliu](../images/copyright-covaliu.png) [^pexelscopyright][^khromkrathokcopyright][^purePNGcopyright][^wikipedia2012copyright]
 
 [^govcan23copyright]: Government of Canada. "A guide to copyright." Government of Canada. Last modified January 10, 2023. https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright.
@@ -344,11 +397,26 @@ Cryptocurrency is a type of digital or virtual currency that uses cryptography f
 
 ## CSS (Cascading Style Sheet)
 ### Definition
+CSS, or Cascading Style Sheet, is a language used to style HTML or XML documents. CSS gives developpers and designers the power to change the presentation of a webpage/website [^meyer01css]. They can personnalize everything from fonts, to colors, to the layout [^robbins02css]. More experienced developpers can even play around with the behavior of a page. CSS is usually written independently from the HTML files in a file of type ".css". CSS was created to allow HTML files to be exlusively markup [^g04css].  
+
+There are 3 ways to add CSS to a webpage [^w3school03css]:
+1. **External**: CSS is written in an external file and then linked to its respective HTML file with a \<link> tag within the \<head>. Ex:  
+\<head>  
+\<link rel="stylesheet" href="thecssfile.css">  
+\</head>
+2. **Internal**: CSS is written just as if it was in a separate file, but directly in the HTML file within a \<style> tag. Ex:  
+\<style>  
+body {  
+  color: black;  
+  padding: 0px;  
+}  
+\</style>
+3. **Inline**: CSS properties are written inline with the tag they are directly modifying. This way is usually reserved for properties that need to be prioritized in loading. It is not recommended otherwise as it can reduce code readability. Ex:  
+\<body>  
+\<p style="color:black; padding:5px;">This is a paragraph.\</p>  
+\</body>  
 
 
-(under construction + placeholder for my sources)
-- [^meyer01css]
-- [^robbins02css]
 
 ### Examples
 
@@ -358,6 +426,8 @@ Cryptocurrency is a type of digital or virtual currency that uses cryptography f
 
 [^meyer01css]:Meyer, Eric A. 2006. "CSS: The Definitive Guide: The Definitive Guide." O'Reilly Media, Inc.
 [^robbins02css]:Robbins, Jennifer Niederst. 2012. "Learning web design: A beginner's guide to HTML, CSS, JavaScript, and web graphics." O'Reilly Media, Inc.
+[^g04css]:G, Domantas. 2023. "What is CSS?" Hostinger, Accessed 27-01-2024, https://www.hostinger.com/tutorials/what-is-css.
+[^w3school03css]:W3Schools. "CSS How To." W3Schools, Accessed 27-01-2024, https://www.w3schools.com/css/css_howto.asp.
 
 
 
@@ -411,6 +481,19 @@ However, data science could be applied to almost anything that involves the stud
 [^Blei2017Cite]: Blei, David M., and Padhraic Smyth. “Science and Data Science.” Proceedings of the National Academy of Sciences of the United States of America 114, no. 33 (2017): 8689–92.
 [^Davenport2020Cite]: DAVENPORT, AARON C., MICHELLE D. ZIEGLER, ABBIE TINGSTAD, KATHERINE ANANIA, DANIEL ISH, NIDHI KALRA, SCOTT SAVITZ, RACHEL LIANG, and MELISSA BAUMAN. 2020. Decoding Data Science: The U.S. Coast Guard’s Evolving Needs and Their Implications. RAND Corporation. 
 [^Floridi2016Cite]: Floridi, Luciano, and Mariarosaria Taddeo. 2016. Introduction: What Is Data Ethics? Philosophical Transactions: Mathematical, Physical and Engineering Sciences 374, no. 2083: 1–5.
+
+## Dataset
+
+A dataset is essentially a structured collection of data which can be tabular or non-tabular. Four features of datasets include grouping, content, relatedness, and purpose. In this sense, the data is represented as a collective unit or a set of numbers, where addition/subtraction doesn't change the sets identity, for observing and related by time, place, instrument, or object of observation. [^Renear]. Tabular data is oragnized by rows and columns, whereas non-tablular data is unorganized with brackets. Datasets can be categorized by information, such as numerical, bivariate, mulitvariate, categorical, and correlational data  [^IBM]. Data is important for making decisions, making it valuble for making decisions regarding consumerism and science [^Renear]. 
+
+In conclusion, datasets are overall very valuble for data analaysis, in making decisions, and optimizing resources. [^Chapman]. Large datasets are essential for machine learning and algorithms [^IBM Support" 2021], valuble to companies, and overall analyzing data. 
+
+
+[^IBM]: "IBM Support.": IBM Documentation. Last modified March 1, 2021. Accessed [March 8, 2024]. https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-data-set.
+
+[^Renear]: Renear, Sacchi, and Wickett. 2011. "Definitions of dataset in the scientific and technical literature". In *Asis * T*, no. 47: 1-4. doi.org/10.1002/meet.14504701240
+
+[^Chapman]: Chapman, Simperl, Koesten, Konstanitinidis, Ibáñez, Kacprzak, and Groth. 2020. "Dataset search: a survey" in *The VLDB Journal*, no 29: 251-272. 
 
 ## Deep fakes
 
@@ -511,6 +594,26 @@ https://www.tsjournal.org/index.php/jots/article/view/56
 
 
 
+## Digital Footprint
+
+A digital footprint is a trail of data that a user leaves behind as they browse the internet[^coates12digitalfootprint]. This data comes from downloading online files, visiting websites and webpages, sending emails, and submitting information. According to the Canadian Center for Cyber Security, a digital footprint is built both actively and passively. An active digital footprint is done through intentional actions such as accepting cookies, posting things online and filling out forms. A passive digital footprint is left unintentionally, with some websites tracking the user’s IP address without their knowledge[^govcan24digitalfootprint]. This often leads to third parties accessing it[^coates12digitalfootprint]. Many things could make up a person’s digital footprint: their location, their address, their internet usage, their methods of communication, their employment history and much more[^weavergahegan07digitalfootprint]. A digital footprint leaves bits and pieces of someone’s personal information, which could potentially be a threat to their privacy and safety if accessed by someone with harmful intentions such as identity theft. 
+
+A good way to reduce one’s digital footprint is to limit or even refuse website cookies and be weary of dangerous websites or possible phishing scams. It is also recommended to install anti-virus software to prevent data sharing and to use a VPN[^govcan24digitalfootprint].
+
+### See also
+
+[Dataset](../keywords/dataset.md)
+
+[Data Mining](../keywords/datamining.md)
+
+[Pattern Recognition](..keywords/patternrecognition.md)
+
+[^govcan24digitalfootprint]: Canadian Center for Cyber Security. 2024. “Digital footprint (ITSAP.00.133).” Government of Canada. Last modified February 16, 2024. https://www.cyber.gc.ca/en/guidance/digital-footprint-itsap00133
+
+[^coates12digitalfootprint]: Coates, David. 2012. “Privacy Rights”, *The Oxford Companion to American Politics v.s*. Oxford University Press (2012). https://www-oxfordreference-com.lib-ezproxy.concordia.ca/display/10.1093/acref/9780199764310.001.0001/acref-9780199764310-e-0206?rskey=KkQbu2&result=7 
+
+[^weavergahegan07digitalfootprint]: Weaver, Stephen D., & Gahegan, Mark. 2007. “Constructing, Visualizing, and Analyzing a Digital Footprint.” *Geographical Review* 97, no. 3 (July): 324-350. https://www.jstor.org/stable/30034175
+
 # Digitization:
 
 Digitization is a process or a creation of a physical object that becomes photographed, processed into the computer using descriptive coding and then fully becomes a digital media that can be viewed across any search engine.[^mallison23digitization] Digitization entails any physical object or in-person sound that was scanned or recorded and uploaded to a computer to then be showcased within the digital realm. By digitizing data and services, it allows things like energy transformation, mobility and logistic sectors, and enhanced health care to be possible.[^kagermann15digitization] 
@@ -603,18 +706,17 @@ Developpers do need to pay a closer attention to [network security](#networksecu
 [^ThomasJ-EdgeComp]: Thomas, Jevin J, Aryadevi CS, James Mathew and Vishnu K Saji. 2022. "Edge Computing." *International Journal of Engineering Technology and Management Sciences*: 567-573. [https://web.archive.org/web/20220823024849/https://ijetms.in/Vol-6-issue-5/Vol-6-Issue-5-91.pdf](https://web.archive.org/web/20220823024849/https://ijetms.in/Vol-6-issue-5/Vol-6-Issue-5-91.pdf)
 ## Embodiment 
 ![Embodiment](images/embodiment-rezaee.png)
-As an overall term, embodiment can carry several meanings. Embody in dictionary... Latin root of embody... Its most common use deals with physical representations of subjects both real and abstract. For example, "She is the embodiment of anger!", this concrete defintion is simple enough to understand. However depending on context the definition of the term shifts. 
+As an overall term, embodiment can carry several meanings. Embodiment is described as "someone or something that represents a quality or an idea exactly" in the cambridge dictionary[^cambridge01wiki].  Its most common use deals with physical representations of subjects both real and abstract. For example, "She is the embodiment of anger!", this concrete defintion is simple enough to understand. However depending on context the definition of the term shifts. 
 
 In computation and media, embodiment is a discourse that can be deeply philosophical and has a rich history. Within the body's interactions itself, there are many forms of abstraction to be dealt with. Many people have heard of the comparison of brains to computer. The early 4EA (Embodied, Embedded, Extended, Enacted, Affective) cognitive science movement questioned the notion of computation related to an organism. These thinkers arrived to the conclusion that... Today, there remains three schools of thought to consider: body conservationism, body functionalism and body enactivism. The latter of which states that cognition arises from the dynamic interaction between an organism, its body, and its environment [^kiverstein05wiki].
 
-The social aspect of media deepens this discourse, our presence online... Our online embodiments, uch as avatars are an emphatical form of embodiment. and personas [^kleyjer01wiki].  
+The social aspect of media deepens this discourse, our presence online, our usage annd adaption to technology (its use of us), and our online embodiments, such as avatars [avatars](../main/glossary.md#Avatar)are an emphatical form of embodiment and interaction. Embodied interactions refer to the way our bodies interact with the physical world, impacting our thinking processes. This is also known as embodied cognition. Embodied interaction and embodied user interfaces aim to create seamless interactions between users and technology, moving computing tasks from traditional desktop setups to physical spaces.The success of these in motivating students proves embodiment is an integral part of immersion [^chen02wiki]. In video games, avatars are central to narriatve, expeirence and immersion. 
 
-Other things to consider are human interaction with the computer [^chen02wiki], 
+Immserion itself has a longstanding history in new media art, th work of artists like Char Davies, Jon McCormack, and Catherine Richards set the precedent of such. The importance of hearing and the auditory in shaping "new media" through immersion has been a necessity throughout all forms of modern art and entertainment [^haddow04wiki]. 
 
-immersion [^dyson03wiki], 
+In a more physical sense, cyborgs represent the latest form of new media human-machine interaction that centers embodiment in scholarship. The subjectivity of human beings comes into question as we are able to undergo biomedical interventions such as organ transplants, xenotransplants, implantable cardiac devices, and 3-D bioprinting. These interventions raise philosophical and sociological questions about the identity of resulting bodies, blurring the boundaries between human and machine. [^haddow04wiki] 
 
-cyborgs [^haddow04wiki] and more.
-
+[^cambridge01wiki]:Cambridge. n.d. “EMBODIMENT | English Meaning - Cambridge Dictionary.” Cambridge Dictionary. Accessed April 7, 2024. https://dictionary.cambridge.org/dictionary/english/embodiment.
 [^chen02wiki]:Chen, Jessie YC, and Gino Fragomeni. 2018. Virtual, Augmented and Mixed Reality: Interaction, Navigation, Visualization, Embodiment, and Simulation: 10th International Conference, VAMR 2018, Held as Part of HCI International 2018, Las Vegas, NV, USA, July 15-20, 2018, Proceedings, Part I. Vol. 10909. Springer.
 [^dyson03wiki]:Dyson, Frances. 2009. Sounding New Media: Immersion and Embodiment in the Arts and Culture. Univ of California press.
 [^haddow04wiki]:Haddow, Gill. 2021. “Embodiment and Everyday Cyborgs: Technologies That Alter Subjectivity.”
@@ -640,9 +742,9 @@ Furthermore, Ethernet's reliability and security features make it a preferred ch
 
 ## Facial Recognition
 
-Facial recognition is a recognition system that utilizes biometrics to detect, analyze, and recognize faces.[^kaur20facial] The process can be broken down into three technologies: detection, analysis, and recognition. Detection infers the training of an algorithm to recognize faces; The detected faces are then mapped and converted into a “faceprint”.[^klosowski20facial] Finally, and most notably, faceprints are compared to individuals in a database to find their closest match.[^klosowski20facial] Face recognition is, defined by the IEEE, is an umbrella term capturing all "related technologies for building a face recognition system," including "face detection, face position, identity recognition, image preprocessing, etc"[^li20facial]. 
+Facial recognition is a recognition system that utilizes biometrics to detect, analyze, and recognize faces.[^kaur20facial] The process can be broken down into three technologies: detection, analysis, and recognition. Detection infers the training of an algorithm to recognize faces; The detected faces are then mapped and converted into a “faceprint”.[^klosowski20facial] Finally, and most notably, faceprints are compared to individuals in a database to find their closest match.[^klosowski20facial] Face recognition, defined by the IEEE, is an umbrella term capturing all "related technologies for building a face recognition system," including "face detection, face position, identity recognition, image preprocessing, etc."[^li20facial] It is ultimately a product of the combination of simple image analysis and [pattern recognition](../main/glossary.md#patternrecognition) systems. 
 
-This software can be traced back to the 1960s. A system developed by Woodrow Wilson Bledsoe in which an "unknown face is compared against data points of previously entered pictures".[^klosowski20facial] As computers became more powerful, they began utilizing neural networks in the recognition process, resulting in the development of databases of faces. Such algorithms were predominantly trained on white males, thus leading to a higher rate of misidentification amongst BIPOC and female faces.[^klosowski20facial] Furthermore, facial recognition - notably its increasing use by governments - has given rise to security concerns, including the archiving of biometric information and images to build their databases.[^klosowski20facial]. Despite these worries, facial recognition has trickled into our day-to-day lives: face ID has become a vital and normalized feature of our mobile devices. Hence, this recognition technology and its increasing presence in our systems contributes to the growth of surveillance capitalism.
+This software can be traced back to the 1960s. A system developed by Woodrow Wilson Bledsoe in which an "unknown face is compared against data points of previously entered pictures."[^klosowski20facial] As computers became more powerful, they began utilizing [neural networks](../main/glossay.md#neural-networks) in the recognition process, resulting in the development of databases of faces. Such algorithms were predominantly trained on white males, thus leading to a higher rate of misidentification amongst BIPOC and female faces.[^klosowski20facial] Furthermore, facial recognition - notably its increasing use by governments - has given rise to security concerns, including the archiving of biometric information and images to build their databases.[^klosowski20facial] Despite these worries, facial recognition has trickled into our day-to-day lives: face ID has become a vital and normalized feature of our mobile devices. Hence, this recognition technology and its increasing presence in our systems contributes to the growth of surveillance capitalism.
 
 
 [^kaur20facial]: Kaur, Paramjit, Kewal Krishan, Suresh K Sharma, and Tanuj Kanchan. 2020. “Facial-Recognition Algorithms: A Literature Review.” Medicine, Science and the Law 60 (2): 131–39. https://doi.org/10.1177/0025802419893168.
@@ -692,11 +794,17 @@ Futurism was an artistic and social movement that started in Italy at the beginn
 
 However, this movement was not without controversy. Because futurists had an industrialized view of the future, they deemed museums and libraries as unnecessary and advocated for their destruction. They also deemed feminism as unnecessary.[^casden15futurism][^luisettisomigli09futurism] Another reason for this is due to Italy not being as industrially developed during this time as the other powerful countries. Italy was often associated with classical art movements such as the Renaissance, making technological advancements seem more necessary than ever.[^casden15futurism] Futurism also had heavy ties to Fascism, with members siding with Mussolini after the First World War.[^luisettisomigli09futurism]
 
+### See also
+
+[Post-Digital](../keywords/postdigital.md)
+
+[Posthuman](../keywords/posthuman.md)
+
 [^casden15futurism]: Casden, Emily. 2015. “Italian Futurism: An Introduction.” Khan Academy. https://www.khanacademy.org/humanities/art-1010/xdc974a79:italian-art-before-world-war-i/art-great-war/a/italian-futurism-an-introduction 
 
-[^coenmunsgrove03futurism]: Coen, Ester, and John Musgrove. 2003. “Futurism.” Oxford art online. DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1093/gao/9781884446054.article.T030277 
+[^coenmunsgrove03futurism]: Coen, Ester, and John Musgrove. 2003. “Futurism.” *Oxford art online*. DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1093/gao/9781884446054.article.T030277 
 
-[^luisettisomigli09futurism]: Luisetti, Federico, and Luca Somigli. “A Century of Futurism: Introduction.” Annali d’Italianistica 27, (2009): 13-21. JSTOR, https://www.jstor.org/stable/24016244
+[^luisettisomigli09futurism]: Luisetti, Federico, and Luca Somigli. “A Century of Futurism: Introduction.” *Annali d’Italianistica* 27, (2009): 13-21. JSTOR, https://www.jstor.org/stable/24016244
 
 ## GAN
 
@@ -801,26 +909,27 @@ are perhaps best known for the important role they play in the practical use of 
 [^Ahmed22hashfunctionapplications]:Ahmed, Haifaa. “A review of hash function types and their applications.” Wasit Journal of Computer and Mathematics Science, vol. 1, no. 3, 30 Sept. 2022, pp. 75–88, https://doi.org/10.31185/wjcm.52. 
 
 ## Hashtag
+A hashtag, denoted by the symbol “#”, is a metadata tag commonly use in the [Internet](../main/glossary.md#internet) culture, particularly on social media.[^Merriam-Webester24Hashtag] It originated as a feature on a post on Twitter in August 2007 from a product designer named Chris Messina. The primary purpose was to provide users with an easy way to categorize, discover and participate in specific topics on social media.[^Hastags.org12Whatis#] In addition, tweets containing hashtags can link to a specific timeline of other tweets with the same hashtag.[^WikströmHashtagOnTwitter] 
 
-A hashtag, denoted by the symbol “#”, is a metadata tag commonly use in the Internet culture, particularly on social media.[^Merriam-Webester24Hashtag]  It originated as a feature on a post on Twitterin August 2007 from a product designer named Chris Messina. The primary purpose was to provide user with an easy way to categorize, discover and participate in specific topics on social media.[^Hastags.org12Whatis#] In addition, Tweets containing hashtags can link to a specific timeline of other tweets with the same hashtag.[^WikströmHashtagOnTwitter] 
+Hashtags are related to new media as it has significantly impacted the overall performance of social media content which can help small businesses, influencers, brands, and many more to reach a larger audience. A hashtag can contain multiple words without space, such as `#dogLover` and may also contain numbers. They can be added to social media posts, bios, comments, [blog](../main/glossary.md#blog) posts and other content. They are utilized across various platform, including Instagram, TikTok, YouTube, Facebook, Twitter and many more.[^SproutSocial23HashtagsWhatAreThey] [Users](../main/glossary.md#user) are also able to use emoji as hashtags on Instagram. They are mostly used to describe the content of the pictures, thereby increasing interaction.[^GiannoulakisTsapatsoulisPowerOfInstagram]  
 
-Hashtags are related to new media as it has significantly impacted the overall performance of social media content which can help small businesses, influencers, brands and many more to reach a bigger audience. A hashtag can contain multiple word without space, such as `#dogLover` and may also contain numbers. They can be added to social media posts, bios, comments, and other content. They are utilized across various platform, including Instagram, TikTok, YouTube, Facebook, Twitter and many more.[^SproutSocial23HashtagsWhatAreThey] 
+By paying attention and researching trends, you can create a powerful tool to engage your audience and increase your social impact at no cost using hashtag. They can create a community where answers and questions can be freely exchange.[^OBrienDigitalMarketingInstitute] 
 
-By paying attention and researching trends, you can create a powerful tool to engage your audience and increase your social impact at no cost using hashtag. As it can create a community where answers and question can be freely exchange.[^OBrienDigitalMarketingInstitute] 
-
-In addition, hashtags can be useful in assisting people in need. During the COVID-19 pandemic, Instagram hashtags helped young people at risk of poverty and social exclusion by fostering scientific education and promoting remote learning.[^PublicHealth22Instagram]
+In addition, hashtags can be useful in assisting people in need and raising awareness about important issues. During the COVID-19 pandemic, Instagram hashtags helped young people at risk of poverty and social exclusion by fostering scientific education and promoting remote learning.[^PublicHealth22Instagram]
 
 ![Hashtag](../images/hashtag-tham.png)
 
-[^Merriam-Webester24Hashtag]: Merriam-Webster. 2024. “Hashtag.” https://www.merriam-webster.com/dictionary/hashtag. 
+[^Merriam-Webester24Hashtag]: “Hashtag.” Merriam-Webster. Accessed January 27. https://www.merriam-webster.com/dictionary/hashtag. 
 
-[^Hastags.org12Whatis#]: Hastags. 2012. “What is a (#) Hashtag?.” hashtags.org. https://www.hashtags.org/how-to/history/what-is-a-hashtag/.
+[^Hastags.org12Whatis#]: Hastags. 2012. “What is a (#) Hashtag?.” hashtags.org. Accessed January 27. https://www.hashtags.org/how-to/history/what-is-a-hashtag/.
+	
+[^SproutSocial23HashtagsWhatAreThey]: “Hashtags: What they are and how to use them effectively.” Sprout Social. Accessed January 27. https://sproutsocial.com/insights/what-is-hashtagging/.
 
-[^SproutSocial23HashtagsWhatAreThey]: Sprout Social. 2023. “Hashtags: What they are and how to use them effectively.” https://sproutsocial.com/insights/what-is-hashtagging/.
+[^GiannoulakisTsapatsoulisPowerOfInstagram]: Giannoulakis, Stamatios, and Tsapatsoulis, Nicolas. 2016. “Evaluating the descriptive power of Instagram hashtags.” Journal of Innovation in Digital Ecosystems, Vol. 3, p.114-129. https://www.sciencedirect.com/science/article/pii/S2352664516300141?ref=pdf_download&fr=RR-2&rr=86fc3e901a046e02.
 
-[^WikströmHashtagOnTwitter]: Wikström, Peter. 2014. "#srynotfunny: Communicative Functions of Hashtags on Twitter": 1–44. SKY Journal of Linguistics, Vol. 27, p.127-152. https://www.linguistics.fi/julkaisut/SKY2014/Wikstrom.pdf.
+[^WikströmHashtagOnTwitter]: Wikström, Peter. 2014. "#srynotfunny: Communicative Functions of Hashtags on Twitter". SKY Journal of Linguistics, Vol. 27, p.127-152. https://www.linguistics.fi/julkaisut/SKY2014/Wikstrom.pdf.
 
-[^PublicHealth22Instagram]: Int J Environ Res Public Health. 2022. "An Instagram Hashtag Fostering Science Education of Vulnerable Groups during the Pandemic." https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8872541/.
+[^PublicHealth22Instagram]: Aitor, Cañaveras, Gairal-Casadó, Regina, Gómez, Paula, Puigvert, Lídia, Sordé Martí, Teresa, and Villarejo-Carballido, Beatriz. 2022. "An Instagram Hashtag Fostering Science Education of Vulnerable Groups during the Pandemic." National Library of Medicine. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8872541/.
 
 [^OBrienDigitalMarketingInstitute]: O’Brien, Clodagh. 2023. “How to Use Hashtags Effectively on Social Media.” Digital Marketing Institute. https://digitalmarketinginstitute.com/blog/how-to-use-hashtags-in-social-media#:~:text=A%20hashtag%20is%20a%20word,your%20posts%20and%20encourage%20interaction.
 
@@ -859,31 +968,38 @@ Image on the bottom corner[^rosenthal21hologram]
 [^rosenthal21hologram]: Rosenthal, Lynn. *Could Holograms Be the Future of Entertainment and Advertising?*. Image. RollingStone. December 14, 2021. https://www.rollingstone.com/culture-council/articles/holograms-future-entertainment-advertising-1268769/.
 
 ## HTTPS
+Throughout most of the [Internet](../main/glossary.md#internet)
+history, web traffic was unencrypted, meaning that traffic went over HTTP without the protection of SSL or TLS. This lack of encryption allowed anyone on the network positioned between the client(user) and the server to intercept or modify the transmitted content. As the Internet evolved, HTTPS adoption increased and websites using HTTP could even change the UI to alert users to potential privacy risks.[^MozillaGoogleHTTPSAdoptionOnWeb] Nowadays, users depend heavily on HTTPS for secure communication with websites, fostering trust in the protection of their private information.[^ClarkOorschotSSLandHTTPS]
 
 HTTPS is an extension of the HTTP but is more secure as it incorporates encryption, authentication, and integrity checks. It provides a secure method for transmitting data between a web server and a web browser by using encryption technology like SSL or TLS. It operates on a request-response model, it sends a request and awaits the server’s response.[^WhatIsHTTPS24]
+
 HTTPS safeguards users against any malicious activities such as eavesdroppers and man-in-the-middle attacks. It is relatively easy to impersonate, modify or monitor an HTTP connection since any information is sent as a plain text. Therefore, using HTTPS is more secure and ensure that no attacks can temper with the exchanged information.[^HypertextTransferProtocolSecure22]
 
 ### HTTPS Cryptographic protocols
-
 #### Secure Sockets Layer (SSL)
 SSL is the predecessor to the modern encryption, TLS. It was developed by Netscape in 1995[^CloudflareWhatIsSSL24] for ensuring the identity and authentication of a website, enabling a secure HTTP session between the client and the server. However, since SSL 3.0,  developed in 1996, several vulnerabilities have been identified, rendering it unsafe for use. Consequently, most browsers no longer support this protocol.
 
 #### Transport Layer Security (TLS)
 TLS is the successor of SSL and ensures privacy, authenticity and data security while exchanging data over the internet. The key difference between SSL and TLS lies in the handshake process, where a browser authenticates a server’s SSL or TLS certificate. SSL handshake involves an explicit connection and has more steps, while TLS is an implicit one, making it faster.[^AWSDifferenceBetweenSSL]
 
-The term SSL and SSL/TLS both refer to the TLS protocol and certificates, as all version of SSL are now deprecated.
+The terms SSL and SSL/TLS both refer to the TLS protocol and certificates, as all version of SSL are now deprecated and considered outdated version of TLS.[ ^ClarkOorschotSSLandHTTPS]
 
-HTTPS contributes to a better overall user experience by providing faster loading times, especially on modern web browsers and prioritize secure connections. Additionally, search engines prioritize websites that use HTTPS in their search results.[^LinkedInHTTPSSEO24] It plays an important role in facilitating secure communication and interaction across various platform, including social media, streaming service and many more website. It does integrate an safety wall for the users navigating the web.
+HTTPS contributes to a better overall [user](../main/glossary.md#user)
+experience by providing faster loading times, especially on modern web browsers and prioritize secure connections. Additionally, search engines prioritize websites that use HTTPS in their search results.[^LinkedInHTTPSSEO24] It plays an important role in facilitating secure communication and interaction across various platform, including social media, streaming service and many more website. It does integrate a safety wall for the users navigating the web, therefore it plays a crucial role in the context of new media.
 
-[^WhatIsHTTPS24]: Pol, Tushar. 2024. “What is HTTPS?.” Semrush Blog. https://www.semrush.com/blog/what-is-https/.
+[^MozillaGoogleHTTPSAdoptionOnWeb]: Barnes, Richard, Bentzel, Chris, King, April, Palmer, Chris, Porter Felt, Adrienne, and Tabriz, Parisa. 2017. “Measuring HTTPS Adoption on the Web.” USENIX. Accessed April 05. https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/felt.
 
-[^HypertextTransferProtocolSecure22]: Awati, Rahul. 2022. “Hypertext Transfer Protocol Secure (HTTPS).” TechTarget. https://www.techtarget.com/searchsoftwarequality/definition/HTTPS.
+[^ClarkOorschotSSLandHTTPS]: Clark, Jeremy, and Van Oorschot, P. C. 2013. “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificate trust model enhancements.” IEEE Symposium on Security and Privacy, Berkeley, CA, USA, 2013, pp. 511-525. https://ieeexplore.ieee.org/abstract/document/6547130/authors.
 
-[^CloudflareWhatIsSSL24]: Cloudflare. 2024. “What is SSL | SSL definition.” https://www.cloudflare.com/learning/ssl/what-is-ssl/.
+[^WhatIsHTTPS24]: Pol, Tushar. 2024. “What is HTTPS?.” Semrush Blog. Accessed January 27. https://www.semrush.com/blog/what-is-https/.
 
-[^AWSDifferenceBetweenSSL&TLS24]: AWS. 2024. “What’s the Difference Between SSL and TLS?.” https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=SSL%20is%20technology%20your%20applications,that%20fixes%20existing%20SSL%20vulnerabilities.
+[^HypertextTransferProtocolSecure22]: Awati, Rahul. 2022. “Hypertext Transfer Protocol Secure (HTTPS).” TechTarget. Accessed January 27. https://www.techtarget.com/searchsoftwarequality/definition/HTTPS.
 
-[^LinkedInHTTPSSEO24]: AI and the LinkedIn community. 2024. "Why does HTTPS matter for SEO?." LinkedIn. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
+[^CloudflareWhatIsSSL24]: “What is SSL | SSL definition.” Cloudflare. Accessed January 27. https://www.cloudflare.com/learning/ssl/what-is-ssl/.
+
+[^AWSDifferenceBetweenSSL&TLS24]: “What’s the Difference Between SSL and TLS?.” AWS. Accessed January 27. https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=SSL%20is%20technology%20your%20applications,that%20fixes%20existing%20SSL%20vulnerabilities.
+
+[^LinkedInHTTPSSEO24]: AI and the LinkedIn community. 2024. "Why does HTTPS matter for SEO?." LinkedIn. Accessed January 27. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
 
 ## Human-Computer Interaction 
 
@@ -933,6 +1049,73 @@ Hypertext allows people to easily access information from multiple sources and n
 [^OxfordHypertext]: Oxford University Press. Oxford Advanced Learner’s Dictionary. “Hypertext”. Accessed January 28, 2024. https://www.oxfordlearnersdictionaries.com/definition/english/hypertext
 [^JSMERP16]: Koskinen, Jussi, Airi Salminen, and Jukka Paakki. 2004. “Hypertext Support for the Information Needs of Software Maintainers.” *Journal of Software Maintenance and Evolution: Research and Practice* 16 (3): 187–215. https://doi.org/10.1002/smr.292.
 
+Image recognition that takes various images as raw data has wide applications such as medical image diagnosis, optical character recognition, signature authentication, fingerprint identification, iris recognition, DNA sequence identification, image retrieval, visual object detection, face and gesture recognition, autonomous vehicles, military applications, and much more.
+
+The general structure of an image recognition system is composed of four building blocks:
+
+**1-	 Image acquisition**
+Image acquisition converts a scene into an array of numbers that can be manipulated by a computer.
+
+**2-	 Image preprocessing and segmentation**
+This block removes noise, enhances the picture, and segments the regions of interest from the image background as well as normalizes the segmented sub-image such as rotation, translation, scale and contrast normalization. Both input and output of this building block are images.
+
+**3-	 Feature extraction**
+This block reduces the data dimension by removing redundancy and unreliable components from the data and hence represents the object of interest by a reduced set of numerical features.
+
+**4-	Classification**
+Classification is the last stage of an image recognition system, where a class label is assigned to the unknown image object by comparing the extracted features with class representations that the classifier has learned during its training stage.
+
+Among the four building blocks of a general image recognition system, feature extraction and classification are more closely related to the pattern recognition discipline than the other two and hence are intensively studied in the research fields of pattern recognition and computer vision.
+
+The goal of feature extraction is to yield a pattern representation that makes the classification trivial. Conversely, a good classification design would not need the help of a sophisticated feature extraction. In fact, there is no conceptually clear boundary between feature extraction and classification.[^general01image_recognition]
+
+## Applications of deep learning in  image recognition
+
+Image recognition technology has appeared in the 1940s, but limited by the technical environment and hardware facilities at that time, at that time did not get a long development. Until the 1990s, artificial neural networks were combined with support vector machines to provide support for the development of image recognition techniques, enabling its wide utilization, for example, in license plate recognition, face recognition, object detection, and so on. However, traditional image recognition techniques use structural models that are insufficient to pre-process images and require manual pre-processing first, leading to reduced accuracy of image recognition. The purpose of deep learning is to extract higher-dimensional and more abstract information by constructing a multilayer network on which the computer automatically learns and obtains the relationships implied by the data internally so that the learned features are more expressive.
+
+**Deep learning**
+
+Deep learning is a branch in machine learning, and its concept is derived from artificial neural networks (ANN), which simulate the pattern of passing and processing information between neurons in the human brain from the perspective of information processing. 
+
+Supervised learning and unsupervised learning are the two main categories of deep learning, and classification is based on whether the data contains markers or not. The supervised learning process identifies the mapping relationship between the features of the training data and the markers, and continuously corrects the bias in the learning process through the markers to continuously improve the prediction rate of learning. 
+
+Deep learning is used in many applications because of its strong ability to extract image features, accurate recognition, and fast real-time.. Especially, it has achieved notable results in face recognition, medical image recognition, remote sensing image recognition, etc. Before the emergence of deep learning technology, image recognition mainly relied on traditional technical means to achieve, for example, principal component analysis (PCA), Laplace feature map method, local value-preserving mapping (LPP), sparse representation, neural network dimensionality reduction, et. However, the image recognition performance is not ideal due to the defects of traditional technical means. Advances in deep learning technology have allowed researchers to gradually apply deep learning to image recognition, and good results have been achieved in subsequent scientific work, and the recognition efficiency and recognition effect of images have improved significantly over traditional recognition means.
+
+**CNN**
+
+Convolutional Neural Network (CNN) is not only an important part of deep learning, but also one of the more widely used models in the field of image recognition. The advantage of the CNN model mainly lies in avoiding a large amount of feature extraction work in the pre-processing of images and simplifying the steps of image pre-processing.
+
+The CNN model is based on the assumption of local correlation and feature repetition of the image, i.e., it is assumed that the pixel at a certain point of the image is generally more correlated with its neighboring pixels and less correlated with other pixels, avoiding the large number of parameters necessary for full connectivity, which is the local connectivity property of CNN.[^deep_learning02image_recognition]
+
+## Pattern recognition and image processing
+
+During the past twenty years, there has been a considerable growth of interest in problems of pattern recognition and image processing. This interest has created an increasing need for theoretical methods and experimental software and hardware for use in the design of pattern recognition and image processing systems.
+
+Although pattern recognition and image processing have developed as two separate disciplines, they are very closely related. The area of image processing consists not only of coding, filtering, enhancement, and restoration, but also analysis and recognition of images. On the other hand, the area of pattern recognition includes not only feature extraction and classification, but also preprocessing and description of patterns. It is true that image processing appears to consider only two-dimensional pictorial patterns and pattern recognition deals with one-dimensional, two-dimensional, and three-dimensional patterns in general. However, in many cases, information about one-dimensional and three-dimensional patterns is easily expressed as two-dimensional pictures, so that they are actually treated as pictorial patterns. Furthermore, many of the basic techniques used for pattern recognition and image processing are very similar in nature. Differences between the two disciplines do exist, but we also see an increasing overlap in interest and a sharing of methodologies between them in the future.
+
+Pattern recognition is concerned primarily with the description and classification of measurements taken from physical or mental processes.
+
+In order to determine a good set of characteristic measurements and their relations for the representation of patterns so good recognition performance can be expected, a careful analysis of the patterns under study is necessary. Knowledge about the statistical and structural characteristics of patterns should be fully utilized. From this point of view, the study of pattern recognition includes both the analysis of pattern characteristics and the design of recognition systems.
+
+The many different mathematical techniques used to solve pattern recognition problems may be grouped into two general approaches:
+
+1-	Decision-theoretic (or discriminant) approach 
+In the decision-theoretic approach, a set of characteristic measurements, called features, are extracted from the patterns. Each pattern is represented by a feature vector, and the recognition of each pattern is usually made by partitioning the feature space.
+2-	 Syntactic (or structural) approach
+The syntactic approach, each pattern is expressed as a composition of its components, called sub patterns or pattern primitives. This approach draws an analogy between the structure of patterns and the syntax of a language.
+
+The recognition of each pattern is usually made by parsing the pattern structure according to a given set of syntax rules. In some applications, both of these approaches may be used. For example, in a problem dealing with complex pattems, the decision-theoretic approach is usually effective in the recognition of pattern primitives, and the syntactic approach is then used for the recognition of sub patterns and of the pattern itself.[^pattern03image_recognition]
+
+
+
+[^general01image_recognition]:Jiang, Xudong. 2009. _‘Feature Extraction for Image Recognition and Computer Vision’_. In 2009 2nd IEEE International Conference on Computer Science and Information Technology, 1–15. https://doi.org/10.1109/ICCSIT.2009.5235014.
+
+[^deep_learning02image_recognition]:Li, Yinglong. 2022. _‘Research and Application of Deep Learning in Image Recognition’_. In 2022 IEEE 2nd International Conference on Power, Electronics and Computer Applications (ICPECA), 994–99. https://doi.org/10.1109/ICPECA53709.2022.9718847.
+
+[^pattern03image_recognition]:
+Fu, King-Sun and Rosenfeld. 1976. _‘Pattern Recognition and Image Processing’_. IEEE Transactions on Computers C–25 (12): 1336–46. https://doi.org/10.1109/TC.1976.1674602.
+
+
 ## Immersion
 
 Immersion refers to the state of being deeply engaged or absorbed in an activity or environment to the extent where one loses awareness of the outside world. It involves a complete focus on the present moment which often leads to a flow state where time seems to pass quickly.[^frances09immersion]
@@ -946,6 +1129,72 @@ Immersion relates equaly to psychology, media studies, and the arts, since it ex
 [^ryan99immersion]: Marie-Laure, Ryan. 1999. “Immersion vs. Interactivity: Virtual Reality and Literary Theory.” SubStance 28, no. 2. 110–37. 
 
 [^wolf17immersion]: Wolf, Mark J. P. 2017. “Beyond Immersion: Absorption, Saturation, and Overflow in the Building of Imaginary Worlds.” In World Building, edited by Marta Boni, 204–14. Amsterdam University Press.
+
+# Information Overload
+
+The human brain is the most complex organ in one of the most complex organisms on earth. It can process information sent through the rest of the body, and can register and comprehend imagery in as little as 13 milliseconds. [^Trafton14blinkofaneye]
+
+With this in mind, there can sometimes be moments in which there is too much information present at once, where the cognative and motor functions of the human body may be stopped, as our brain is taking an astronomical amount of power and focus to comprehend and register it all. Much like the title may have been shown to be, this is called information overload.
+
+Information overload occurs when the brain is presented with too much information at once, and has varying levels of overloading process that occurs with various types of people. Some may be able to handle perfectly fine, as they are more comfortable in high pressure scenarios. However, there are others with whom thoughts stop occurring in their head, or even freeze up, as their brain is attempting and failing to process all the information presented in front of them.
+
+It doesn't just happen with seeing something in front of you, but registering if it's a threat, wondering where you may have seen something from, recalling events, seeing what others may want, seeing if the food is good, what the weather is like, *if the dog in the oncoming distance is ready to pounce, thinking of a random thought in the morning for whether or not a meteor will fall upon your head, getting handed documents at work that must be filled out all for this afternoons Scrum meeting and the pile goes on for so long that you wonder whether or not it will ever end, **seeing an old friend that you never liked and who you had a falling out with and they now have a girlfriend that you used to hang out with but you told rumors of her to all of her friends who unfriended her on Instagram and she never forgave you for such so now you have to turn the other way and attempt not to make eye contact and hope to the heavens above that they do not recognize you as they walk the same dog that looks like its about to pounce and a man gets cut off on the street next to you and honks the loud and obnoxious horn that startles you and almost makes you scream!!!***
+
+What was just described was a possible example of information overload. Many people who are within their own heads too much tend to suffer from information overload. It happens more often to some than to others. It could be from a stressful day at work, a school project due in only a few days, or watching the news during a national disaster when everyone is trying to make sense of the current monsoon of information being flooded.
+
+In 2000, two psychologists, Sheena Iyengar and Mark Lepper, set up an experiment to test this: they set up a booth at a food market for two days where they had a selection of jams on the table. Customers could approach, taste the jams, buy if they were interested, and then leave. A free sampling of jams. However, the two days didn't sell the same jams: on the first day, there was a selection of **24** jams to choose from. On the second day, however, there was only a section of **6** jams. What the study concluded was the following:
+> - 3% of the crowd of customers bought jam on the first day.
+> - 33% of the crowd of customers bought jam on the second day.
+> - A larger crowd was attracted towards the larger display.
+> - Customers, however, were **ten times** more likely to buy jam at the smaller display.
+
+This study demonstrated the ability for choices to overload our senses and leave us almost incapable of decision-making for something as simple as buying jam. This classic example of information overload is one of the most popular examples of the subject. [^Schwarts06morebetter]
+
+However, it's not just real life where this happens. The fast-paced age in which we currently live in offers a variety of ways to get information, and yet we can sometimes feel overwhelmed by the amount presented to us, especially through the ever-growing tumor in the brain that is the internet: **social media**.
+
+It has been proven that the brain cannot comprehend a variety of the ways social media operates, from its constant stimulating feed to its false excuse for a network of friends. [^Lovink11networkcause] The internet prides itself on knowing more about you than even you do, with its new algorithmic-based method of navigation providing even more of an opportunity for it to bombard you with information, ads, and scams, all to siphon money out of your pockets by selling you ads for things that you don't need and can't afford.
+
+"I should really take that trip to the Bahamas"<br>
+"Now that I think about it, that grill of mine really doesn't work very well"<br>
+"Woah, the newest iPhone has such crisp picture quality!<br>
+"Those Balenciagas are soooooo in fashion, I need one!!
+
+It's consumerism at its highest peak, and when the brain is overloaded on information to the point where the body almost achieves a zombified state as it mindlessly scrolls, anyone can do or sell anything to you.
+
+Even to ignore the series of ads put within your face, the content itself also causes the brain to get overloaded with information, with user-generated content reaching an all-time peak in the history of the internet.[^Tang15trustinsocialmedia] YouTube reports that 500 hours of content are uploaded every minute. [^Fischbach20youtube] X reports that 350,000 tweets are sent every minute. [^Sayne22twitter] Facebook reports that 510,000 comments, 293,000 status updates, and 136,000 photos are uploaded every minute. [^Shepherd24facebook] Instagram reports that 95 million pieces of media are uploaded per day. [^Lister24instagram] There is so much user-generated content on these major platforms, and that doesn't even count TikTok, which does not show its amount of hours uploaded per minute, but can be assumed to be at least double that of YouTubes in the current year of 2024.
+
+If we were to take the following information:
+- 30,000 minutes of YouTube (500 * 60 minutes)
+- 90,000 minutes of TikTok (1,500 * 60 minutes)
+- 350,000 tweets
+- 510,000 comments, 293,000 status updates, 136,000 photos
+- 65,972 Instagram posts (95 million / 24 hours / 60 minutes)
+
+It adds up to 1,474,972 different pieces of information across 5 of the most popular social medias on the internet uploaded ***every single minute***.
+
+If we turn this number into meters, it would be equal to more than half the length of the Great Wall of China.
+
+What the brain has experienced while reading the numbers mentioned above may have been akin to information overload. The senses went blurry and the brain got fogged. Maybe the attention may have been diverted to somewhere else, or the brain may have shut off entirely as to save itself from physical pain by nothing but reading text. Information overload takes many forms, and the takeaway from any of what was mentioned above was this:
+
+**Spend more time dealing with the problems in your head and mentally fortifying before information overload assault you all at once like a hurricane.**
+
+<br><br>
+
+[^Shepherd24facebook]:Shepherd, Jack. “33 Essential Facebook Statistics You Need to Know in 2024.” Social_Shepherd, February 26, 2024. https://thesocialshepherd.com/blog/facebook-statistics.
+
+[^Lister24instagram]:Lister, Mary. “33 Mind-Boggling Instagram Stats & Facts for 2024.” WordStream, January 14, 2024. https://www.wordstream.com/blog/ws/2017/04/20/instagram-statistics. 
+
+[^Sayne22twitter]:Sayce, David. “The Number of Tweets per Day in 2022.” David Sayce, August 16, 2022. https://www.dsayce.com/social-media/tweets-day/. 
+
+[^Fischbach20youtube]:Fischbach, Mark Edward. “YouTube Just Gave Me a Strike...” YouTube, September 2, 2020. https://www.youtube.com/watch?v=z0K6r1hoD7I. 
+
+[^Tang15trustinsocialmedia]:Tang, Jiliang, and Huan Liu. 2015. Trust in Social Media. Cham, Switzerland: Springer. https://doi.org/10.2200/S00657ED1V01Y201507SPT013.
+
+[^Trafton14blinkofaneye]:Trafton, Anne. “In the Blink of an Eye.” MIT News | Massachusetts Institute of Technology, January 16, 2014. https://news.mit.edu/2014/in-the-blink-of-an-eye-0116.
+
+[^Schwarts06morebetter]:Schwartz, Barry. “More Isn’t Always Better.” Harvard Business Review, June 25, 2006. https://hbr.org/2006/06/more-isnt-always-better.
+
+[^Lovink11networkcause]:Lovink, Geert. 2011. Networks without a Cause : A Critique of Social Media. Cambridge, UK: Polity.
 
 
 ## Information Architecture 
@@ -967,6 +1216,7 @@ Information architecture is more and more significant because we live in a world
 [^rosenfeld98information_architecture]: Rosenfeld, Louis, and Peter Morville. 1998. Information Architecture for the World Wide Web. Beijing: O’reilly. 1998.
 [^usibility19information_architecture]: Usability.gov. 2019. “Information Architecture Basics .” Usability.gov. 2019. 
 
+[Information Architecture](../main/glossary.md#information_architecture)
 
 # Interactivity:
 
@@ -1033,13 +1283,13 @@ JPEG most commonly refers to the .JPG & .JPEG digital file formats, widely used 
 [^JPEG-importance]: Wikipedia contributors. "JPEG." In *Wikipedia, The Free Encyclopedia*. Last modified March 30, 2024. Accessed April 1, 2024. https://en.wikipedia.org/wiki/JPEG.
 
 ## Lossless
-Lossless is when there is no loss in data. When compressing a file, we want to store fewer bits all while preserving the original content [^brookes2021lossless], this is so that data is easier to store or transmit more efficiently[^lu2016lossless]. Lossless compression occurs when the decompressed data is the same as before the compression occurred[^brookes2021lossless]. For example, PNG is a lossless compression [^brian2022lossless] because the compression does not affect the quality of the image.
+Lossless is when there is no loss in data. When compressing a file, we want to store fewer bits all while preserving the original content [^brookes2021lossless], this is so that data is easier to store or transmit more efficiently[^lu2016lossless]. Lossless compression occurs when the decompressed data is the same as before the compression occurred and there is no loss of information during reconstruction[^brookes2021lossless]. For example, PNG is a lossless compression [^brian2022lossless] because the compression does not affect the quality of the image.
 
 Techniques used are called dictionary code and run length encoding. Run length encoding is where redundant data is represented differently to save space. For example, if an image contains 7 yellow pixels instead of storing each yellow pixel 7 time it would be better to say there 7 yellow pixels and would only need to mention that there a yellow pixel one time.[^crashcourse2017lossless]
 
 In our contemporary world, lossless compression is important because we live in a digital era, where more often than not we are constantly sharing information online to our friends, peers and colleagues. Whether it’s images or text files, lossless compression plays a crucial role since it important to be able to send out information quickly and efficiently without losing any of that data.
 
-![lossless.md](images/collage.jpg)
+
 
 [^brookes2021lossless]: Brookes, Tim. 2021. “Lossy vs. Lossless Compression: What’s the Difference?” How To Geek, https://www.howtogeek.com/744381/lossy-vs-lossless-compression-whats-the-difference/.  
 [^crashcourse2017lossless]: CrashCourse. 2017.“Compression: Crash Course Computer Science #21.” YouTube. https://youtu.be/OtDxDvCpPL4?si=N7dJNUot4i-9CwiZ. 
@@ -1054,11 +1304,26 @@ Techniques used are called color space and Chroma subsampling. Color space reduc
 
 Because we live in a digital era, lossy compression has its advantages in making it easier for us to send files and prioritizing / synthesizing the essential information. But it is worth noting that the more compressed a file is the more the quality of the image or sound will suffer.
 
+![lossy.md](images/collage.jpg)
+
 [^brookes2021lossy]:Brookes, Tim. 2021. “Lossy vs. Lossless Compression: What’s the Difference?” How To Geek, https://www.howtogeek.com/744381/lossy-vs-lossless-compression-whats-the-difference/. 
 [^lu2016lossy]: Lu, Zhe-Ming, and Shi-Ze Guo. 2016. Lossless information hiding in images. Elsevier Science. https://www.overdrive.com/media/3040124/lossless-information-hiding-in-images. 
 [^shukla2011lossy]:Shukla, K. K, and M. V Prasad. 2011. Lossy Image Compression : Domain Decomposition-Based Algorithms. Springerbriefs in Computer Science. London: Springer. 
 
 
+
+## Machine Learning 
+Machine learning refers to the process wherein systems autonomously learn from data and experiences to improve their performance without explicit programming [^panesar02]. The term was coined by Arthur Samuel in 1959, who trained a computer to play checkers better than the programmer (himself) in a project for IBM[^samuel03wiki].
+
+Computers have improved vastly, with faster components, larger memory space, and sophistcated programs. Alongside this, Machine learning has become an incredible complex field. Data Mining and Machine Learning (DMML) is done through a series of complex mechanisms heavily based in mathematics. Probability and variation predicition provide the basis for dataset collection and processing. Datasets can be large, meaning infinte in dimension or small, a finite dataset. The latter is used in nonparamatic models, which is used to "smoothen" DMML[^clarke04wiki].  
+
+
+This technology is revolutionizing various fields, including healthcare, where it enables faster and more accurate medical diagnostics. Across fields like healthcare and security machine learning raises a number of ethical concerns, including access to data by collectors and processors. The importance of informed consent, data protection, and transparency is extremely detrimental to the moral usage and training of Machine Learning programs [^Panesar]. Most recently, Machine learning has been used to detect a variety of diseases including Parkison's through its pattern recognition cognitive abilities. During COVID 19, transfer learning was suggested as a viable solution to combat data shortage [^Gunjan].
+
+[^clarke04wiki]:Clarke, Bertrand, Ernest Fokoue, and Hao Helen Zhang. 2009. Principles and Theory for Data Mining and Machine Learning. Springer Series in Statistics. New York, NY: Springer. https://doi.org/10.1007/978-0-387-98135-2.
+[^gunjan01wiki]:Gunjan, Vinit Kumar, and Jacek M. Zurada, eds. 2022. Modern Approaches in Machine Learning & Cognitive Science: A Walkthrough | SpringerLink. Springer. https://link-springer-com.lib-ezproxy.concordia.ca/book/10.1007/978-3-030-96634-8.
+[^panesar02wiki]:Panesar, Arjun. 2019. Machine Learning and AI for Healthcare: Big Data for Improved Health Outcomes. Berkeley, CA: Apress. https://doi.org/10.1007/978-1-4842-3799-1.
+[^samuel03wiki]:Samuel, Arthur. 1959. Some Studies in Machine Learning Using the Game of Checkers. IBM Journal of Research and Development. 3 (3): 210–229.
 
 ## Meme
 
@@ -1103,7 +1368,7 @@ The easiest way to understand this term is to take it literally. The first part 
 
 ## MP3
 
-An MP3 file, also known as Motion Picture Expert Group Audio Layer III, is a compressed digital audio file that uses a technology known as psychoacoustic masking to play music or sounds that can be shared and listened to repeatedly[^Stanford] (Stanford University, 2024). MP3s are considered a lossy file as the compression it undergoes is irreversible and some of the original file’s data was lost during the compression process. In addition, while the quality is still not like the original, MP3 music files often do have fairly high audio quality. The advantage of this compression is that it also reduces the size of the file itself. For example, an average MP3 file is around 3 MB, which is very low when comparing it to a lossless file type like a Waveform Audio file, or WAV, which is often 30 MB[^Gavin] (Gavin, 2018). In making these audio files smaller through a series of compressions, it makes it easier to exchange or share via the Internet and easier to save in a hard drive[^Sterne] (Sterne, 1997). Unfortunately, all of that compression does garner some disadvantages as well in exchange for some hard drive space. One of the main disadvantages being the loss of sound quality when being converted from a lossless file format, which happens because the compression removes parts of the audio that the human ear cannot hear. Fortunately, this often goes unnoticed by the public.
+An MP3 file, also known as Motion Picture Expert Group Audio Layer III, is a compressed digital audio file that uses a technology known as psychoacoustic masking to play music or sounds that can be shared and listened to repeatedly[^Stanford] (Stanford University, 2024). MP3s are considered a lossy file as the compression it undergoes is irreversible and some of the original file’s data was lost during the compression process. In addition, while the quality is still not like the original, MP3 music files often do have fairly high audio quality. The advantage of this compression is that it also reduces the size of the file itself. For example, an average MP3 file is around 3 MB, which is very low when comparing it to a lossless ([Lossless](../main/glossary.md#lossless)) file type like a Waveform Audio file, or WAV, which is often 30 MB[^Gavin] (Gavin, 2018). In making these audio files smaller through a series of compressions, it makes it easier to exchange or share via the Internet ([Internet](../main/glossary.md#Internet)) and easier to save in a hard drive[^Sterne] (Sterne, 1997). Unfortunately, all of that compression does garner some disadvantages as well in exchange for some hard drive space. One of the main disadvantages being the loss of sound quality when being converted from a lossless file format, which happens because the compression removes parts of the audio that the human ear cannot hear. Fortunately, this often goes unnoticed by the public.
 
 [^Gavin]:Gavin, Brady. 2018. “What Is an MP3 File (and How Do I Open One)?” How-to Geek. How-To Geek. August 7, 2018. https://www.howtogeek.com/361516/what-is-an-mp3-file-and-how-do-i-open-one/.
 
@@ -1183,9 +1448,11 @@ After all that, a really easy way to understand Network Security is fueled by so
 
 ## Neural Networks
 
-Neural networks are computational frameworks that mimic the brain's structure consisting of layers of interconnected nodes (neurons). These networks, through training, learn to perform tasks by adjusting connections based on input data, improving accuracy over time without explicit task-specific programming. They are fundamental in fields like image recognition, natural language processing, and more, due to their ability to learn from vast amounts of data and identify patterns that are not easily discernible by humans. [^NeuralNetworksHerve] . Neural networks are advanced tools for solving specific problems in areas like pattern recognition and data analysis due to their high speed and learning capabilities from examples (training data sets). [^NeuralNetworksBishop] . 
+Neural networks are computational frameworks that mimic the brain's structure consisting of layers of interconnected nodes (neurons). These networks, through training, learn to perform tasks by adjusting connections based on input data, improving accuracy over time without explicit task-specific programming. They are fundamental in fields like image recognition, natural language processing, and more, due to their ability to learn from vast amounts of data and identify patterns that are not easily discernible by humans.[^NeuralNetworksHerve] Neural networks are advanced tools for solving specific problems in areas like pattern recognition and data analysis due to their high speed and learning capabilities from examples (training data sets).[^NeuralNetworksBishop]
 
-Overall, Neural network research explores how computers can mimic the brain's way of processing information, moving away from traditional step-by-step computing to more interconnected and simultaneous methods. Researchers are trying to simplify and understand how these brain-like systems can solve complex tasks by focusing on neurons, which are like tiny processing units influenced by their connections' strengths. They also look into how these networks learn and improve through a process called backpropagation. [^BasicIdeasInNeuralNetworks] .
+Overall, Neural network research explores how computers can mimic the brain's way of processing information, moving away from traditional step-by-step computing to more interconnected and simultaneous methods. Researchers are trying to simplify and understand how these brain-like systems can solve complex tasks by focusing on neurons, which are like tiny processing units influenced by their connections' strengths. They also look into how these networks learn and improve through a process called backpropagation.[^BasicIdeasInNeuralNetworks]
+
+![Neural Networks](../images/neural-networks.png)
 
 [^NeuralNetworksHerve]:Abdi, Hervé. 1999. "Neural Networks." Quantitative Applications in the Social Sciences Series, no-07-124, Sage Publications.
 
@@ -1317,18 +1584,45 @@ On one hand, the posthuman is a subject of human enhancement characterized by at
 
 On the other hand, the posthuman is also conceived as a critique of humanism, of the centralization of the human amongst non-humans, and of the idea of man as a measure of all things. Unlike the former school of thought, which seeks to further human superiority - viewing the posthuman as "an extension of rational mastery"[^rugo20posthuman], this philosophical framework "promotes horizontal ontologies and expanded ethics."[^rugo20posthuman] 
 
-However, both ends compel self-reflection, positing a need to renew the existing definition of human in relation to other beings, to question what makes up the human body and mind, that is critical to define the future human, the posthuman. Judith Halberstam and Ira Livingston, in defining posthuman bodies, recall Donna Haraway's "one is too few, two is too many" with respect to her cyborg in order to argue that assemblages should priviledge "someness" over our current "mind-body dualism with a heterogeneous monism" in which "someness" isn't a quantity in waiting, but rather threads the line between the numerable and inumerable.[^halberstamLivingston95posthuman] As the relationship between human and non-human - machine, notably - exponentially develops thus blurring the lines between the two in a symbiosis, and as the human body and mind become increasingly hybrid, posthuman discourse (from both schools of thought) becomes increasingly pressing. 
+However, both ends compel self-reflection, positing a need to renew the existing definition of human in relation to other beings, to question what makes up the human body and mind, that is critical to define the future human, the posthuman. Judith Halberstam and Ira Livingston, in defining posthuman bodies, recall Donna Haraway's "one is too few, two is too many" with respect to her cyborg in order to argue that assemblages should priviledge "someness" over our current "mind-body dualism with a heterogeneous monism" in which "someness" isn't a quantity in waiting, but rather threads the line between the numerable and inumerable.[^halberstamLivingston95posthuman] As the relationship between human and non-human - machine, notably - exponentially develops in [cyberspace](../main/glossary.md#cyberspace) thus blurring the lines between the two in a symbiosis, and as the human body and mind become increasingly hybrid, posthuman discourse (from both schools of thought) becomes increasingly pressing. 
 
 
 [^bostrom06posthuman]: Bostrom, Nick. “Why I Want to Be a Posthuman When I Grow Up.” Medical Enhancement and Posthumanity, n.d., 107–36. https://doi.org/10.1007/978-1-4020-8852-0_8. 
 
 [^cohen21posthuman]: Cohen, David. “What Does It Mean to Be Posthuman?” New Scientist, March 9, 2021. https://www.newscientist.com/article/mg21829162-400-what-does-it-mean-to-be-posthuman/. 
 
-[^rugo20posthuman]: Rugo, Daniele. “Posthuman.” Oxford Research Encyclopedia of Literature, July 30, 2020. https://doi.org/10.1093/acrefore/9780190201098.013.1136. 
+[^halberstamLivingston95posthuman]: Halberstam, Judith M., and Ira Livingston, eds. Posthuman bodies. Indiana University Press, 1995.
 
 [^lewis21posthuman]: Lewis, Richard S. Technology, Media Literacy, and the human subject, June 3, 2021. https://doi.org/10.11647/obp.0253. 
 
-[^halberstamLivingston95posthuman]: Halberstam, Judith M., and Ira Livingston, eds. Posthuman bodies. Indiana University Press, 1995.
+[^rugo20posthuman]: Rugo, Daniele. “Posthuman.” Oxford Research Encyclopedia of Literature, July 30, 2020. https://doi.org/10.1093/acrefore/9780190201098.013.1136. 
+
+
+## Predictive Analytics
+
+Predictive analytics employs statistical modeling, machine learning, and data mining to forecast future trends and behaviors based on historical data patterns. It encompasses data collection, preprocessing, model creation, and deployment for various applications like fraud detection and customer retention, aligning with business objectives[^kumar18]. Key steps include project definition, data exploration, preparation, model building, deployment, and management, utilizing supervised and unsupervised machine learning approaches[^mishra12].
+
+Its applications span finance, healthcare, and marketing, aiding tasks such as demand forecasting and risk assessment[^kumar18]. Challenges include understanding business nuances and requiring human expertise in model development and interpretation[^eckerson17]. Future advancements may involve refining existing models and integrating modern machine learning methods like deep learning[^kumar18].
+
+In summary, predictive analytics have proactive decision-making capabilities, enabling anticipation of future events, risk mitigation, and capitalization on opportunities[^kumar18]. Despite complexities, it holds promise for the advancements in driving informed decision-making and unlocking valuable insights from data[^eckerson17].
+
+Bibliography:
+
+[^eckerson17]: Eckerson, Wayne W. PREDICTIVE ANALYTICS Extending the Value of Your Data Warehousing Investment. Vol. FIRST QUARTER 2007 of TDWI BEST PRACTICES REPORT. TDWI Research, 2007. 
+[^kumar18]: Kumar, Vaibhav, and M. L. 2018. “Predictive Analytics: A Review of Trends and Techniques.” International Journal of Computer Applications 182 (July): 31–37. https://doi.org/10.5120/ijca2018917434.
+[^mishra12]: Mishra, Nishchol, and Dr Sanjay Silakari. 2012. “Predictive Analytics: A Survey, Trends, Applications, Opportunities & Challenges.”
+
+## QR Code
+
+QR codes, short for Quick Response codes, are two-dimensional barcodes that contain information encoded within a pattern of black squares arranged on a white background. They store a wide range of data types, including URLs, text, contact information, and even [multimedia](./multimedia.md) content.[^Blevins12qrcode]
+
+QR codes are scanned using smartphones or dedicated QR code scanners, enabling quick and convenient access to information or actions. They are primarily used for marketing, ticketing, inventory tracking, payment systems, and contactless interactions.[^Lee11qrcode] Because of their ease of use, versatility, and ability to bridge the physical and digital worlds, QR codes continue to play an integral role in modern communication and [e-commerce](./e-commerce.md).[^Dekker20qrcode]
+
+[^Blevins12qrcode]: Blevins, Tim. 2012. “How QR Codes Add Value to Library Programming.” American Libraries 43, no. 3/4. 18–20.
+
+[^Lee11qrcode]: Lee, Jun-Ki, Il-Sun Lee, and Yong-Ju Kwon. 2011. “Scan & Learn! Use of Quick Response Codes & Smartphones in a Biology Field Study.” The American Biology Teacher 73, no. 8. 485–92.
+
+[^Dekker20qrcode]: Dekker, Brigitte, and Maaike Okano-Heijmans. 2020. “Business: E-Commerce, the Platform Economy and Digital Payments.” Europe’s Digital Decade? Navigating the Global Battle for Digital Supremacy. Clingendael Institute.
 
 ## Quantum Computing
 Quantum Computing is an emerging type of computing that utilizes principles of quantum mechanics to expedite certain processes and calculations, faster than classical computing. A key principle in the difference between quantum and classical computing is qubits. Like bits, a qubit can be in 2 states, a 0 or a 1. However, operating under quantum mechanics, a qubit can be in a third state called superposition. This essentially means that, before being measured, a qubit exists in the states of 0 and 1 simultaneously[^mcmahon08quantum]. This allows the quantum computers to process multiple calculations concurrently and sort databases with optimized algorithms which accelerates the processing speed. This function is called parallelism[^gruska99quantum]. 
@@ -1350,15 +1644,24 @@ There are 4 more major types of ransomware:[^Razaulla23RW]
 3. Scareware: tricks users into buying or downloading malicious software, often through startling messages
 4. Leakware: threatens to make users data public unless a ransom is paid
 
-In 2023, ransomeware payouts totaled over $1.1 billion USD from an estimated 4,399 different attacks - the most costly year ever, twice as much as the year before. However, only 29% of ransomware victims in the final quarter of 2023 paid the demanded ransoms - a significant drop from years before, where 70-80% were paid, which suggests more lucrative targets are being selected for attacks. Close to 75% of ransomeware payouts top the million dollar mark.[^Greenberg24]
+In 2023, ransomeware payouts totaled over $1.1 billion USD from an estimated 4,399 different attacks - the most costly year ever, twice as much as the year before. However, only 29% of ransomware victims in the final quarter of 2023 paid the demanded ransoms - a significant drop from years before, where 70-80% were paid, which suggests more lucrative targets are being selected for attacks. Close to 75% of ransomeware payouts top the million dollar mark.[^Greenberg24] The majority of ransomware attacks result from successful social engineering attacks (usually in the form of phishing), despite educational attempts from [network security](../main/glossary.md#networksecurity) experts.[^Korolov24rw] 
 
-- want to add something about political uses of ransomware vs criminal
+Nation-states are increasingly the main perpetrators of randomware crimes, though still often utilizing tools developed by criminals. 70% of cyberattacks are now fueled by geopolitics. Factories and industrial facilities, increasingly dependent on digital infrastructure, are prime targets.[^Fernandez24rw]
 
-[^Gazet10RW]: Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” <i>Journal in Computer Virology</i> 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
 
-[^Razaulla23RW]: Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” <i>IEEE Access</i> 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
+[^Fernandez24rw]: Fernandez, Ray. 2024. “War & Geopolitical Ransomware Account For 70% of All Attacks.” 2024. Techopedia. April 6, 2024. https://www.techopedia.com/news/war-geopolitical-ransomware-account-for-70-percent-of-all-attacks.
+
+[^Gazet10RW]: Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” *Journal in Computer Virology* 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
 
 [^Greenberg24]: Greenberg, Andy. 2024. “Ransomware Payments Hit a Record $1.1 Billion in 2023.” *WIRED*. February 7, 2024. https://www.wired.com/story/ransomware-payments-2023-breaks-record/.
+
+[^Korolov24rw]: Korolov, Maria. 2024. “The State of Ransomware: Faster, Smarter, and Meaner.” *CSO Online*. Accessed April 6, 2024. https://www.csoonline.com/article/2069830/the-state-of-ransomware.html.
+
+[^Razaulla23RW]: Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” *IEEE Access* 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
+
+
+
+
 
 
 ## Recursion
@@ -1401,6 +1704,16 @@ The integration of recursion in new media not only enhances the efficiency of co
 [^Fibonacci]: “Fibonacci Sequence.” 2023. Wikipedia. March 10, 2023. https://en.wikipedia.org/wiki/Fibonacci_sequence.
 
 ‌
+
+## Responsive Design
+
+Responsive Design (RD) also known as Responsive Web Design (RWD) is an approach to web design that uses dynamic techniques to improve the readability and usability of a website on multiple devices. The main techniques used are media queries and relative units. [^IDF01RD] Media queries make use of breakpoints that depend on screen size to determine the behavior of the webpage. An example of the use of this could be a header with buttons directing the user to different pages on the desktop version of a website, whereas these buttons may be hidden within a menu on a mobile screen to preserve space. 
+
+Some pros of responsive design include but aren’t limited to: the ability to reach a larger audience, the improvement of search engine optimization (SEO), as well as ensuring consistency within design across all devices. [^IDF01RD] In order to responsibly make use of responsive design, it is important to consider usability and accessibility.  The design needs to consider all possible interactions from the user in order for the site to work as expected. [^SJ02RD] Responsive design is important for the user experience on a website. According to a study taken during the pandemic, university students much preferred university websites designed with responsive design in mind, and this overall increased usability and effectiveness. [^AP03RD]
+
+[^IDF01RD]: Interaction Design Foundation - IxDF. 2016. “What Is Responsive Design (RD)?” The Interaction Design Foundation. June 3, 2016. https://www.interaction-design.org/literature/topics/responsive-design.
+[^SJ02RD]: Jehl, Scott. 2015. Responsible Responsive Design. https://learning.oreilly.com/library/view/responsible-responsive-design/9780134077987/.
+[^AP03RD]: Parlakkiliç, Alaattin. 2022. “Evaluating the Effects of Responsive Design on the Usability of Academic Websites in the Pandemic.” Education and Information Technologies 27 (1): 1307–22. https://doi.org/10.1007/s10639-021-10650-9.
 
 ## SEO (search engine optimization)
 
@@ -1520,26 +1833,38 @@ ChatGPT4 to help me find references and to translate some texts.
 ## UI (User Interface)
 ### Definition
 
-UI, also known as User Interface, is the human-computer point of contact in any  digital device, application, or software [^coursera01ui].
+UI, also known as User Interface, is the human-computer point of contact in any digital device, application, or software [^coursera01ui]. Those points of interaction can include screens, keyboards, computer mice, remote controls, etc., but UI is most commonly referred to in terms of website or software application design [^Churchville02ui]. UI design is all about the communication between the user and the product [^mckay04ui]. 
 
-(under construction + placeholder for my sources)
-- [^harris02ui]
-- [^mckay03ui]
-- [^kristiadi04ui]
+Contrary to UX (user experience), which is present throughout the entire creation process, UI design specifically focuses interactions between the user and the product [^harris03ui]. UI designers work with navigational elements, input controls, information components, and containers. They design the colors, size, appearance, and overall style of those elements. 
 
-### Examples
 
-### Difference Between UX and UI
-| UX  | UI  |
-| --- | --- |
-| -   | -   |
-| -   | -   |
+### Differences between UX and UI
+| UX                                      | UI                                  |
+|-----------------------------------------|-------------------------------------|
+| Entire process of creation              | Focusing on the looks             |
+| How does the interaction make them feel | What does the user interact with  |
+| Make the purpose of the buttons clear   | Give the buttons an attractive visual |
+| User's journey from start to end        | User's interaction with a specific element |
+| Easy to use | Easy on the eye
+| "Analytical and technical field" [^kristiadi05ui] | "Graphic design" [^kristiadi05ui]  | 
+
+#### Examples
+1. Imagine the newest bathrooms at Concordia University where the hand dryer and the faucet are connected in the shape of a T. Now imagine if they were a website. The UI designers did a wonderful job creating a design that seamlessly fits with the rest of the bathroom. It is generally nice to look at. It's usability on the other hand, is lacking. The UX designers failed to take into account that when the dryers turn on, the water in the sink is splashed right back at the user.
+
+### What do they have in common?
+UX and UI designers often work together to assure their product's:
+- Usability
+- Interactivity
+- Behavior
+- Effortless experience
 
 
 [^coursera01ui]: Coursera Staff. 2023. “What Is Ui Design? Definition, Tips, Best Practices.” Coursera. https://www.coursera.org/articles/ui-design. 
-[^harris02ui]: Harris, Patricia. 2017. "What Is User Interface Design?" The Rosen Publishing Group, Inc.
-[^mckay03ui]: McKay, Everett N. 2013. "UI is communication: How to design intuitive, user centered interfaces by focusing on effective communication" Newnes.
-[^kristiadi04ui]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
+[^Churchville02ui]:Churchville, Fred. 2023. "User Interface (UI)." SearchAppArchitecture. Accessed 26-01-2024. https://www.techtarget.com/searchapparchitecture/definition/user-interface-UI.
+[^harris03ui]: Harris, Patricia. 2017. "What Is User Interface Design?" The Rosen Publishing Group, Inc.
+[^mckay04ui]: McKay, Everett N. 2013. "UI is communication: How to design intuitive, user centered interfaces by focusing on effective communication" Newnes.
+[^kristiadi05ui]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
+
 
 
 
@@ -1570,47 +1895,60 @@ As unsupervised learning evolves, its application in uncovering hidden insights 
 [^usama19unsupervised_machine_learning]: Usama, Muhammad, Junaid Qadir, Aunn Raza, Hunain Arif, Kok-lim Alvin Yau, Yehia Elkhatib, Amir Hussain, and Ala Al-Fuqaha. 2019. “Unsupervised Machine Learning for Networking: Techniques, Applications and Research Challenges.” IEEE Access 7: 65579–615. https://doi.org/10.1109/ACCESS.2019.2916648.
 
 ## User
-A user has many definitions, but let’s focus on the concept of an end user within the technology field. An end user is a person who utilizes a product or service such as a computer, software and many more, without involvement in its production or sell. Therefore, they are often referred to as customer and operator[^TheStateOfTheArtInEndUser]. End users typically have user accounts with usernames and passwords to authenticate themselves within a system.[^Chinel23Whatisuser]
+The term "user" originates from the Old French word "user," meaning to employ or make use of, and also from Vulgar Latin "usare," which denotes making use of or taking advantage of something. In addition, the term "user" in the context of computers was invented in 1967.[^etymolineUser] One of the earliest instances of its use in the context of computing can be traced back to the pioneering work at institutions like the Digital Equipment Computer Users' Society.[^StackExchangeWhyCalledUsers]
 
-The term "user" originates from the Old French word "user," meaning to employ or make use of, and also from Vulgar Latin "usare," which denotes making use of or taking advantage of something. The term "user" in the context of computers was invented in 1967. [^etymolineUser] One of the earliest instances of its use in the context of computing can be traced back to the pioneering work at institutions like the Digital Equipment Computer Users' Society.[^StackExchangeWhyCalledUsers]
+A user has many definitions, but let’s focus on the concept of an end user within the technology field. An end user is a person who utilizes a product or service such as a computer, [software](../main/glossary.md#software) and many more, without involvement in its production or sell. Therefore, they are often referred to as customers and operators.[^TheStateOfTheArtInEndUser] End users typically have user accounts with usernames and passwords to authenticate themselves within a system.[^Chinel23Whatisuser]
 
-Understanding the needs of customers who utilize the product is important for developing the best product tailored for the intended users. In addition, gathering input from users through surveys, interviews, and testing can provide valuable feedback. This feedback can help identify areas for improvement and enable the customization of the user experience to better meet the users’ needs.[^Indeed23WhatIsAnEndUser]
+Understanding the needs of customers who utilize the product is important for developing the best product tailored for the intended users. Additionally, gathering input from users through surveys, interviews, and testing can provide valuable feedback. This feedback can help identify areas for improvement and enable the customization of the user experience to better meet the users’ needs.[^Indeed23WhatIsAnEndUser] 
 
-Users interact with technology in various ways, including navigating interfaces, inputting commands, providing data, and receiving outputs. Therefore, user experience (UX) and User Interface (UI) play a crucial role in the success of a product or service. It is important to consider the end-user experience during the developing of the products and services.[^IntuitMailchimp24EndUser]
+Users play an important role in the context of new media as they interact with technology in various ways, including navigating interfaces, inputting commands, providing data, and receiving outputs. For example, touchscreen devices which are mostly use nowadays, offer operation flexibility, allowing users to navigate vertically or horizontally using one or more fingers or thumbs while accessing different applications. Distinguishing between tablets and smartphones is crucial due to variations in size, weight, and shape, necessitating different design considerations for ergonomic interface design.[^BröhlMertensZiefleUsersMobile] Therefore, user experience ([UX](../main/glossary.md#ux)) and user interface ([UI](../main/glossary.md#ui)) play a crucial role in the success of a product or service.[^IntuitMailchimp24EndUser] 
 
+[^TheStateOfTheArtInEndUser]: Ko, Andrew J., Abraham, Robin, Beckwith, Laura, Blackwell, Alan, Burnett, Margaret, Erwig, Martin, Scaffidi, Chris, Lawrance, Joseph; Lieberman, Henry; Myers, Brad; Rosson, Mary Beth; Rothermel, Gregg, Shaw, Mary, and Wiedenbeck, Susan. 2010. "The State of the Art in End-User Software Engineering". ACM Computing Surveys, Vol. 43, Issue 3, Article No. 3, p.1-44. https://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf).
 
-[^TheStateOfTheArtInEndUser]: Ko, Andrew J.; Abraham, Robin; Beckwith, Laura; Blackwell, Alan; Burnett, Margaret; Erwig, Martin; Scaffidi, Chris; Lawrance, Joseph; Lieberman, Henry; Myers, Brad; Rosson, Mary Beth; Rothermel, Gregg; Shaw, Mary; Wiedenbeck, Susan. 2011. "The State of the Art in End-User Software Engineering": 1–44. ACM Computing Surveys. https://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf).
+[^Chinel23Whatisuser]: “What Is User? Definition, Types and Role.” Chisel Glossary. Accessed January 27. https://chisellabs.com/glossary/what-is-user/.
 
-[^Chinel23Whatisuser]: Chisel glossar. 2023 “What Is User? Definition, Types and Role.” https://chisellabs.com/glossary/what-is-user/.
+[^etymolineUser]: "User (n.)." Online Etymology Dictionary. Accessed January 27. https://www.etymonline.com/word/user.
 
-[^etymolineUser]: Online Etymology Dictionary. 2017. "User (n.)." https://www.etymonline.com/word/user.
+[^StackExchangeWhyCalledUsers]: Graf, Michael. 2023. "Why were computer customers called "Users"?." StackExchange. Accessed January 27.  https://retrocomputing.stackexchange.com/questions/15202/why-were-computer-customers-called-users.
 
-[^StackExchangeWhyCalledUsers]: Graf, Michael. 2023. "Why were computer customers called "Users"?." StackExchange. https://retrocomputing.stackexchange.com/questions/15202/why-were-computer-customers-called-users.
+[^Indeed23WhatIsAnEndUser]: Indeed Editorial Team. 2023. “What is an End User? Definition, Examples and Tips.” Indeed. Accessed January 27.  https://www.indeed.com/career-advice/career-development/end-user.
 
-[^Indeed23WhatIsAnEndUser]: Indeed Editorial Team. 2023. “What is an End User? Definition, Examples and Tips.” Indeed. https://www.indeed.com/career-advice/career-development/end-user.
+[^BröhlMertensZiefleUsersMobile]: Bröhl, Christina, Mertens, Alexander, and Ziefle, Martina. 2017. “How Do Users Interact with Mobile Devices? An Analysis of Handheld Positions for Different Technology Generations.” In: Zhou, J., Salvendy, G. (eds) Human Aspects of IT for the Aged Population. Applications, Services and Contexts. ITAP 2017. Lecture Notes in Computer Science(), Vol. 10298. Springer, Cham. https://doi.org/10.1007/978-3-319-58536-9_1.
 
-[^IntuitMailchimp24EndUser]: Intuit Mailchimp. 2024. “End User.” https://mailchimp.com/marketing-glossary/end-user/.
-
+[^IntuitMailchimp24EndUser]: “End User.” Intuit Mailchimp. Accessed January 27.  https://mailchimp.com/marketing-glossary/end-user/.
 
 ## UX (User Experience)
 ### Definition
 
-UX, also known as UX design or User Experience, is a concept in the field of human-computer interaction [^yablonski01ux].
+UX, also known as UX design or User Experience, is a concept in the field of human-computer interaction [^yablonski01ux]. UX refers to the the process of designing a product or service that meets a user's needs and provides a meagninful overall experience. The process includes research that  stretches across multiple domains like engineering, marketing, and production teams.
 
-(under construction)
-- [^berni02ux]
+UX designers research the way users interact with and use prodcuts. They need to understand the users' mind in order to understand their needs. They take into account factors such as predispositions, needs, motivation, and mood of the user in order to build the complexity, purpose, usability, accessibility and functionnality of the product [^berni02ux]. They make sure that the product meets the business goals and objectives by outlining the product's abilities and limitations. 
 
-### Examples
+### Differences between UX and UI
+| UX                                      | UI                                  |
+|-----------------------------------------|-------------------------------------|
+| Entire process of creation [^idf04ux]               | Focusing on the looks             |
+| How does the interaction make them feel | What does the user interact with  |
+| Make the purpose of the buttons clear   | Give the buttons an attractive visual |
+| User's journey from start to end        | User's interaction with a specific element |
+| Easy to use | Easy on the eye
+| "Analytical and technical field" [^kristiadi03ux] | "Graphic design" [^kristiadi03ux]  | 
 
-### Difference Between UX and UI
-| UX  | UI  |
-| --- | --- |
-| -   | -   |
-| -   | -   |
+#### Examples
+1. Imagine the newest bathrooms at Concordia University where the hand dryer and the faucet are connected in the shape of a T. Now imagine if they were a website. The UI designers did a wonderful job creating a design that seamlessly fits with the rest of the bathroom. It is generally nice to look at. It's usability on the other hand, is lacking. The UX designers failed to take into account that when the dryers turn on, the water in the sink is splashed right back at the user.
+
+### What do they have in common?
+UX and UI designers often work together to assure their product's:
+- Usability
+- Interactivity
+- Behavior
+- Effortless experience
 
 
 [^yablonski01ux]: Yablonski, Jon. Laws of UX. 2024. " O'Reilly Media, Inc."
 [^berni02ux]: Berni, Aurora, and Yuri Borgianni. 2021. "From the definition of user experience to a framework to classify its applications in design." Proceedings of the Design Society 1 (2021): 1627-1636.
+[^idf04ux]: Interaction Design Foundation. 2016. "UX Design." Interaction Design Foundation, Accessed 26-01-2024, https://www.interaction-design.org/literature/topics/ux-design.
+[^kristiadi03ux]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
 
 ## Version Control
 
@@ -1686,7 +2024,7 @@ Wearable technology - also referred to as 'wearables' - encapsulates all wireles
 
 The market for wearable technology is rising exponentially as it allows the seamless incorporation of computers and electronics such as handheld mobile devices into people's lives. Common examples of such technology are tracking bracelets and smartwatches, which utilise sensors to track users' biometrics[^ferreira21wearableTech]. On top of lending improvements to people's everyday lives, they are also useful in numerous other domains, such as health care, fitness, education, finance, and gaming[^wright14wearableTech].
 
-Wearables have developed a 'smartphone-like experience'[^ometov21wearableTech], allowing users to handle 'calls, emails, texts, and many other alerts without even getting the bulky devices out'[^ometov21wearableTech]. As they continue to evolve, industry analyst Walt Maclay argues that they will further absorb our personal lives, 'taking existing wearables such as eyeglasses, watches, hear-ing aids, and jewelry, and enhancing them with sensors'[^wright14wearableTech]. This falls in junction with new media theory; The virtualization and digitization of our reality - of our body - through wearable technology. Wearables are a prime instance of technology becoming further abstracted, blurring the lines between what is and isn't machine by incorporating it on (and in) our bodies. 
+Wearables have developed a 'smartphone-like experience'[^ometov21wearableTech], allowing users to handle 'calls, emails, texts, and many other alerts without even getting the bulky devices out'[^ometov21wearableTech]. As they continue to evolve, industry analyst Walt Maclay argues that they will further absorb our personal lives, 'taking existing wearables such as eyeglasses, watches, hear-ing aids, and jewelry, and enhancing them with sensors'[^wright14wearableTech]. This falls in junction with new media theory, namely the [postdigital](../main/glossary.md#postdigital); The virtualization and digitization of our reality - of our body - through wearable technology. Wearables are a prime instance of technology becoming further abstracted, blurring the lines between what is and isn't machine by incorporating it on (and in) our bodies. 
 
 
 [^ferreira21wearableTech]: Ferreira, João J., Cristina I. Fernandes, Hussain G. Rammal, and Pedro M. Veiga. “Wearable Technology and Consumer Interaction: A Systematic Review and Research Agenda.” Computers in Human Behavior 118 (May 2021): 106710. https://doi.org/10.1016/j.chb.2021.106710. 
@@ -1714,4 +2052,20 @@ There are numerous platforms for running wikis. Among the most popular are  [Med
 [^parker07wiki]: Parker, Kevin, and Joseph Chao. 2007. “Wiki as a Teaching Tool.” *Interdisciplinary Journal of E-Learning and Learning Objects* 3 (1): 57–72.
 
 [^hester09analysis]: Hester, Andrea J. 2009. Analysis of factors influencing adoption and usage of knowledge management systems and investigation of wiki technology as an innovative alternative to traditional systems. PhD diss., University of Colorado at Denver.
+
+## Extended Reality (XR)
+
+Extended Reality (XR) is a term that encompasses augmented reality (AR), virtual reality (VR), and mixed reality (MR). It refers to all real and virtual combined environments and human-machine interactions generated by computer technology and wearables. [^wikipedia23xr]
+
+Extended Reality (XR) refers to the blend of physical and digital environments created through technologies like augmented reality (AR), virtual reality (VR), and mixed reality (MR). It encompasses immersive experiences that merge or simulate the real world with digital enhancements, facilitated by advancements in computing and wearable technology. This broad definition captures the essence of XR's aim to enhance human-machine interactions across various domains including entertainment, education, and training, among others. [^Çöltekin20xr]
+
+The article "Exploring the Future of Extended Reality in Higher Education" from EDUCAUSE Review provides insights into the implementation and challenges of XR in educational settings. It discusses the importance of adopting a nimble approach to technology deployment, emphasizes cross-disciplinary work to fully exploit XR's potential, and highlights the significance of community building within and across institutions to foster innovation in XR applications. The discussion includes practical considerations such as the need for educational institutions to be adaptable in their technology investments, to foster interdisciplinary collaborations, and to build communities that support XR development and deployment in education​.[^Pomerantz20xr]
+
+
+[^wikipedia23xr]: Wikipedia contributors. 2023. "Extended reality." _Wikipedia, The Free Encyclopedia._ https://en.wikipedia.org/wiki/Extended_reality (accessed April 8, 2024).
+
+[^Çöltekin20xr]: Çöltekin, Arzu, Ian Lochhead, Marguerite Madden, Sidonie Christophe, Alexandre Devaux, Christopher Pettit, Oliver Lock, et al. 2020. "Extended reality in spatial sciences: A review of research challenges and future directions." _ISPRS International Journal of Geo-Information_ 9 (7): 439.
+
+[^Pomerantz20xr]: Pomerantz, Jeffrey, and Randy Rode. 2020. "Exploring the future of extended reality in higher education." _EDUCAUSE_ Review.
+
 

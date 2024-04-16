@@ -4,8 +4,14 @@ Futurism was an artistic and social movement that started in Italy at the beginn
 
 However, this movement was not without controversy. Because futurists had an industrialized view of the future, they deemed museums and libraries as unnecessary and advocated for their destruction. They also deemed feminism as unnecessary.[^casden15futurism][^luisettisomigli09futurism] Another reason for this is due to Italy not being as industrially developed during this time as the other powerful countries. Italy was often associated with classical art movements such as the Renaissance, making technological advancements seem more necessary than ever.[^casden15futurism] Futurism also had heavy ties to Fascism, with members siding with Mussolini after the First World War.[^luisettisomigli09futurism]
 
+### See also
+
+[Post-Digital](../keywords/postdigital.md)
+
+[Posthuman](../keywords/posthuman.md)
+
 [^casden15futurism]: Casden, Emily. 2015. “Italian Futurism: An Introduction.” Khan Academy. https://www.khanacademy.org/humanities/art-1010/xdc974a79:italian-art-before-world-war-i/art-great-war/a/italian-futurism-an-introduction 
 
-[^coenmunsgrove03futurism]: Coen, Ester, and John Musgrove. 2003. “Futurism.” Oxford art online. DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1093/gao/9781884446054.article.T030277 
+[^coenmunsgrove03futurism]: Coen, Ester, and John Musgrove. 2003. “Futurism.” *Oxford art online*. DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1093/gao/9781884446054.article.T030277 
 
-[^luisettisomigli09futurism]: Luisetti, Federico, and Luca Somigli. “A Century of Futurism: Introduction.” Annali d’Italianistica 27, (2009): 13-21. JSTOR, https://www.jstor.org/stable/24016244
+[^luisettisomigli09futurism]: Luisetti, Federico, and Luca Somigli. “A Century of Futurism: Introduction.” *Annali d’Italianistica* 27, (2009): 13-21. JSTOR, https://www.jstor.org/stable/24016244

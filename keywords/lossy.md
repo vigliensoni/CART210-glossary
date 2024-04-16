@@ -6,6 +6,8 @@ Techniques used are called color space and Chroma subsampling. Color space reduc
 
 Because we live in a digital era, lossy compression has its advantages in making it easier for us to send files and prioritizing / synthesizing the essential information. But it is worth noting that the more compressed a file is the more the quality of the image or sound will suffer.
 
+![lossy.md](images/collage.jpg)
+
 [^brookes2021lossy]:Brookes, Tim. 2021. “Lossy vs. Lossless Compression: What’s the Difference?” How To Geek, https://www.howtogeek.com/744381/lossy-vs-lossless-compression-whats-the-difference/. 
 [^lu2016lossy]: Lu, Zhe-Ming, and Shi-Ze Guo. 2016. Lossless information hiding in images. Elsevier Science. https://www.overdrive.com/media/3040124/lossless-information-hiding-in-images. 
 [^shukla2011lossy]:Shukla, K. K, and M. V Prasad. 2011. Lossy Image Compression : Domain Decomposition-Based Algorithms. Springerbriefs in Computer Science. London: Springer. 

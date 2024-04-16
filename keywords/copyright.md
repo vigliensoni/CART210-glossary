@@ -6,6 +6,12 @@ The first copyright law passed in America was in 1790 in the United States, whic
 
 Copyright can expire after a certain amount of years. The time it takes for it to expire may vary on the country. It would then fall into the public domain, where it becomes available to be used, distributed or reworked freely.[^dulongmartin12copyright]
 
+### See also
+
+[Copyleft](../keywords/copyleft.md)
+
+[Creative Commons](../keywords/creativecommons.md)
+
 ![copyright-covaliu](../images/copyright-covaliu.png) [^pexelscopyright][^khromkrathokcopyright][^purePNGcopyright][^wikipedia2012copyright]
 
 [^govcan23copyright]: Government of Canada. "A guide to copyright." Government of Canada. Last modified January 10, 2023. https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright.
