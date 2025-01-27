@@ -6,7 +6,7 @@ UNIX was created at AT&T's Bell Labs in the late 1960s by Ken Thompson, Dennis R
 
 In new media studies, UNIX is significant because it provides a stable and flexible platform for various digital media applications. Its design principles have influenced the development of tools and systems that support multimedia processing, web hosting, and content creation. The UNIX philosophy of building simple, modular tools that can be combined in complex ways aligns with the collaborative and participatory nature of new media.[^mcilroy78unix]
 
-Many contemporary operating systems, such as Linux and macOS, are derived from or influenced by UNIX. These systems are widely used in media production, web development, and other digital content creation fields. The command-line interface and scripting capabilities of UNIX allow for efficient processing and manipulation of media files, making it a preferred choice for professionals in the industry.
+Many contemporary operating systems, such as Linux and macOS, are derived from or influenced by UNIX. These systems are widely used in media production, web development, and other digital content creation fields. The command-line interface and scripting capabilities of UNIX allow for efficient processing and manipulation of media files, making it a preferred choice for professionals in the industry. 
 
 [^raymond03art]: Raymond, Eric S. 2003. _The Art of Unix Programming_. Addison-Wesley.
 
