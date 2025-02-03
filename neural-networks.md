@@ -1,0 +1,20 @@
+## Neural Networks
+
+A neural network is a sophisticated form of machine learning and subset of deep learning, designed to emulate the structure and functionality of the human brain[^thisisacitation1]. These systems, often referred to as “Artificial Neural Networks” (ANN) [^thisisacitation2], are inspired by the biological processes of neurons in the brain. They are composed of dense interconnected layers of nodes consisting of an input layer, multiple hidden layers for processing information, and an output layer[^thisisacitation3].
+
+Each node within these layers is assigned a specific weight and threshold. When the input to a node surpasses its threshold, the node becomes activated, transmitting a signal to the next layer of nodes mirroring the way synapses fire in the human brain thus allowing a neural net to tackle complex problems and learn from data. Additionally, due to their interconnected nature, they are able to process vast amounts of information, recognize patterns, and make decisions with remarkable accuracy[^thisisacitation3].
+
+If there are any students in this class who are further interested in how this functions mathematically, as I will not be covering this, they may consult the paper “Activation Functions in Artifcial Neural Networks: A Systematic Overview” by  Johannes Lederer[^thisisacitation4], outlining the neuron activation function and overall architecture as mathematical principles. 
+
+The most common type of neural network, as in the architecture described above, is the Feedforward Neural Networks (FNN) [^thisisacitation1][^thisisacitation5]. FNNs are the simplest form of neural networks, characterized by their unidirectional flow of information, moving exclusively from the input layer, through the hidden layers, and finally to the output layer. This makes them particularly well suited for tasks such as classification and other linear problems. Another prominent example is the Convolutional Neural Network (CNN)[^thisisacitation1][^thisisacitation5], which is specifically designed for pattern identification and recognition using matrix manipulation and other algebraic principles. CNNs excel in tasks involving image and video analysis, detecting similarities, differences, and intricate patterns within data.
+
+The training process for neural networks, while difficult to explain, briefly, they are trained using large datasets, where the model iteratively refines its internal parameters, such as weights and biases, through a dominant design paradigm known as backpropagation if multilateral flow exists[^thisisacitation1]. This works by calculating the error between the neural network’s predictions and the actual target outputs and using the discrepancy to adjust its parameters, gradually minimizing errors and improving its accuracy over time, an iterative cycle of learning and refinement[^thisisacitation2]. 
+
+To conclude, since the first trainable neural network was demonstrated by Frank Rosenblatt in 1957[^thisisacitation6], neural networks have evolved into a technology with widespread applications. Today, they are integral to advancements in fields such as facial and speech recognition, financial and weather forecasting, or simply providing accurate predictions that inform decision-making[^thisisacitation1]. Their versatility and power continue to drive innovation, making them a cornerstone of modern artificial intelligence.
+
+[^thisisacitation1]: IBM. "What Is a Neural Network?" IBM
+[^thisisacitation2]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. MIT Press. 436–444.
+[^thisisacitation3]: Haykin, Simon. 1999. _Neural Networks: A Comprehensive Foundation_. 2nd ed. Upper Saddle River, NJ: Prentice Hall
+[^thisisacitation4]: Lederer, Johannes. 2021. "Activation Functions in Artificial Neural Networks: A Systematic Overview." arXiv
+[^thisisacitation5]: Sharkawy, Abdel-Nasser. 2020. "Principle of Neural Network and Its Main Types: Review." Journal of Advances in Applied & Computational Mathematics
+[^thisisacitation6]: MIT News. 2017. "Explained: Neural Networks and Deep Learning." MIT News
