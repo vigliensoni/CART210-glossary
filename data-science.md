@@ -13,7 +13,7 @@ navigating user engagement and maximizing revenue. [^sweeney13discrimination]
 Data science is closely tied to contemporary technologies such as machine learning, artificial intelligence, and big data 
 frameworks. These technologies support automated processes, content recommendation algorithms, and targeted advertising. 
 For example, Netflix uses data science to recommend shows, while Facebook tailors ads tospecific user demographics, 
-both approaches shaping the way media is consumed and monetized (Gomez-Uribe and Hunt 2015). [^gomez-uribe,hunt15algorythm]
+both approaches shaping the way media is consumed and monetized. [^gomez-uribe,hunt15algorythm]
 
 [^dhar13data]: Dhar, Vikram. 2013. "Data Science and Prediction." Communications of the ACM 56(12): 64-73.
 
